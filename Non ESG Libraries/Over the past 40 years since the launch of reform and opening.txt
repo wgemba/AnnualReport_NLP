@@ -1,0 +1,774 @@
+Over the past 40 years since the launch of reform and opening-up, China's finance has undergone substantial and fundamental changes in terms of size, structure and pattern as well as function, competitiveness, and international influence. Therefore, an accurate and comprehensive understanding of the current situation of China's finance and its history in the last four decades is a prerequisite for deepening the reform and opening-up of finance and a foundation for establishing a modern financial system in China. This paper reviews the historical evolution of China's finance over the past 40 years, focussing on the volume and market share of different types of financial assets, financing tools and mechanisms, patterns in and functions of finance, the risk structure in the financial system, financial opening, and the financial regulation model. It further proposes that in the future, China should establish a modern financial system characterised by 'large-economy finance'.
+
+Keywords: Financial reform; financial regulation; modern financial system; large-economy finance
+
+Introduction
+China has undergone profound changes in its economic and social sectors over the past 40 years since it implemented the reform and opening-up policy. It has transformed from a poor, backward, and closed country into an advanced, open, and modern economy. Alongside the ongoing economic growth and market reform, China's finance has undergone substantial and fundamental changes in terms of size, structure and pattern as well as function, competitiveness, and international influence. It has shifted its modus operandi from being centrally-planned to being market-oriented. Broadly speaking, China's financial system is starting to display the features of 'large-economy finance'. Structural reform, market orientation, technical specialisation, and internationalisation will characterise the future financial reform in China. Therefore, an accurate and comprehensive understanding of the current situation of China's finance and its history in the last four decades is a prerequisite for deepening the reform and opening-up of finance and a foundation for establishing a modern financial system in China. Utilising knowledge from the past and the present will shed light on the future.
+
+The remainder of the paper is structured as follows. In the first three sections, I adopt different approaches to examine the changes in the market volumes and relative shares of different types of financial assets in China. Next, I investigate the changes in the financial sector that occurred as a result of market-driven financial disintermediation and technology-driven Fintech innovation. I also study changes in financial risks associated with changes in the financial structure. I then evaluate China's financial openness and internationalisation. In the following section, I review the evolution of China's financial regulation model. The final section concludes and identifies key points regarding the continuation of financial reform and its development in the future.
+
+Changes in the volume and structure of financial assets: the liquidity approach
+While categorisation and statistical standards for financial assets exhibit a high level of diversity depending on the purpose of the analysis, this paper employs three approaches to gauge the volume of financial assets and to analyse the trends in their structure. First is the MS approach, which classifies financial assets into monetary assets (M) and securities (S), according to their differences in liquidity. The second is the CS approach, classifying financial assets into credits (C) provided by commercial banks (and quasi-commercial banks) and securities (S), based on the different financing mechanisms of indirect and direct finance. I then narrow the scope of financial assets down to only those assets held by resident units and focus on the role of the financial sector in wealth management. Thus the FS approach is adopted, which classifies financial assets into non-securities (F) such as currency and deposits, and securities (S) including stocks (S1) and bonds (S2), as well as insurance reserves (before 2004) and mutual fund shares (2004 and after) (S3).
+
+Financial assets measured with the MS approach
+Table 1 and Figure 1 report the volume of financial assets in the Chinese market since 1978, while Table 2 and Figure 2 report changes in the market structure (i.e. the relative shares of different types of financial assets) from 1990 to September 2018, all measured with the MS (M2 + S) approach, where M2 stands for monetary assets and S stands for securities.
+
+Graph: Figure 1. Size and trend of M2 and securities (unit: 100 million RMB).
+
+Graph: Figure 2. The changing structure of financial assets.
+
+Table 1. Changes in size and structure of financial assets (1978–September 2018) (based on monetary assets and securities; unit: 100 million RMB).
+
+Year	Category
+M2	Securities S (S = S1 + S2)	MS (M2 + S)
+Stock market value (S1)	Bond balance (S2)	Total size S	Growth rate S' (%)
+Size	Growth rate (%)	Size	Growth rate (%)	Size	Growth rate (%)	Size	Growth rate (%)
+1978	1,159.1	4.68	0	0	0	0	0	0	1,159.1	4.68
+1979	1,458.1	25.80	0	0	0	0	0	0	1,458.1	25.80
+1980	1,842.9	26.39	0	0	0	0	0	0	1,842.9	26.39
+1981	2,234.5	21.25	0	0	48.66	–	48.66	–	2,283.16	23.89
+1982	2,589.8	15.90	0	0	92.49	90.07	92.49	90.07	2,682.29	17.48
+1983	3,075	18.74	0	0	134.07	44.96	134.07	44.96	3,209.07	19.64
+1984	4,146.3	34.84	0	0	176.60	31.72	176.60	31.72	4,322.9	34.71
+1985	5,198.90	25.39	0	0	237.21	34.32	237.21	34.32	5,436.11	25.75
+1986	6,720.90	29.28	0	0	299.72	26.35	299.72	26.35	7,020.62	29.15
+1987	8,330.90	23.96	0	0	362.79	21.04	362.79	21.04	8,693.69	23.83
+1988	10,099.80	21.23	0	0	494.96	36.43	494.96	36.43	10,594.76	21.87
+1989	11,949.60	18.32	0	0	633.87	28.06	633.87	28.06	12,583.47	18.77
+1990	15,293.40	27.98	23.82	–	1,085.78	71.29	1,109.6	71.29	16,403	30.35
+1991	19,349.90	26.52	112.18	370.95	1,391.08	28.12	1,503.26	35.48	20,853.16	27.13
+1992	25,402.20	31.28	945.06	742.45	2,104.76	51.30	3,049.82	102.88	28,452.02	36.44
+1993	34,879.80	37.31	3,474.29	267.63	2,343.14	11.33	5,817.43	90.75	40,697.23	43.04
+1994	46,923.50	34.53	3,687.83	6.15	2,968.51	26.69	6,656.34	14.42	53,579.84	31.65
+1995	60,750.50	29.47	3,474.27	?5.79	4,502.50	51.68	7,976.77	19.84	68,727.27	29.12
+1996	77,265.00	27.18	10,084.38	190.26	7,830.64	73.92	17,915.02	124.59	95,180.02	38.49%
+1997	90,631.83	17.30	17,529.23	73.83	11,761.71	50.20	29,290.94	63.50	119,922.77	26.00
+1998	104,498.50	15.30	19,505.65	11.27	18,295.63	55.55	37,801.28	29.05	142,299.78	18.66
+1999	119,898.00	14.74	26,471.17	35.71	22,430.38	22.60	48,901.55	29.36	168,799.55	18.62
+2000	138,356.47	15.40	48,090.94	81.67	26,518.46	18.23	74,609.40	52.57	212,965.87	26.16
+2001	158,301.92	14.42	43,522.20	?9.50	30,377.96	14.55	73,900.16	?0.95	232,202.08	9.03
+2002	185,006.97	16.87	38,329.13	?11.93	37,030.03	21.90	75,359.16	1.97	260,366.13	12.13
+2003	221,222.82	19.58	42,457.71	10.77	48,304.54	30.45	90,762.25	20.44	311,985.07	19.83
+2004	253,207.70	14.46	37,055.57	?12.72	60,552.30	25.36	97,607.87	7.54	350,815.57	12.45
+2005	298,755.48	17.99	32,430.28	?12.48	79,848.79	31.87	112,279.07	15.03	411,034.55	17.17
+2006	345,577.91	15.67	89,403.90	175.68	98,314.91	23.13	187,718.81	67.19	533,296.72	29.74
+2007	403,401.30	16.73	327,140.89	265.91	128,715.36	30.92	455,856.25	142.84	859,257.55	61.12
+2008	475,166.60	17.79	121,366.44	?62.90	157,127.08	22.07	278,493.52	?38.91	753,660.12	?12.29
+2009	610,224.52	28.42	243,939.12	100.99	181,135.63	15.28	425,074.75	52.63	1,035,299.27	37.37
+2010	725,851.79	18.95	265,422.59	8.81	206,910.34	14.23	472,332.93	11.12	1,198,184.72	15.73
+2011	851,590.90	17.32	214,758.10	?19.09	224,318.77	8.41	439,076.87	?7.04	1,290,667.77	7.72
+2012	974,148.80	14.39	230,357.62	7.26	262,895.07	17.20	493,252.69	12.34	1,467,401.49	13.69
+2013	1,106,524.98	13.59	230,977.19	0.27	300,163.71	14.18	531,140.90	7.68	1,637,665.88	11.60
+2014	1,228,374.81	11.01	372,546.96	61.29	360,046.63	19.95	732,593.59	37.93	1,960,968.40	19.74
+2015	1,392,278.11	13.34	531,304.20	42.61	485,391.40	34.81	1,016,695.60	38.78	2,408,973.71	22.85
+2016	15,500,66.67	11.33	508,245.11	?4.34	643,018.45	32.47	1,151,263.56	13.24	2,701,330.23	12.14
+2017	1,676,768.54	8.17	567,475.37	11.65	746,871.01	16.15	1,314,346.38	14.17	2,991,114.92	10.73
+2018.9	1,801,665.58	7.45	486,609.72	?14.25	826,340.00	10.64%	1,312,949.72	?0.11%	3,114,615.30	4.13%
+1 Data sources: National Bureau of Statistics, Wind, People's Bank of China, various years.
+
+2 Notes: ( 1) Since October 2011, M2 has included deposits of the Housing Provident Fund Management Centre, and deposits of non-depositary financial institutions in depositary financial institutions. ( 2) The MS approach measures financial assets based on differences in liquidity, including financial assets in commercial banks and securities (excluding mutual funds) but excluding financial assets in non-bank financial institutions, held by either the residential, firm, governmental, or any external sector. ( 3) S1 denotes stocks, S2 denotes bonds, S denotes all securities (S1 + S2), S' denotes the growth rate of securities. ( 4) Treasury bonds were resumed in 1981 with an outstanding balance of 4.866 billion RMB to cover fiscal deficits in 1979 and 1980. ( 5) Bond outstanding balance data before 1990 are obtained by adding up the treasury bond income in the 1993 China Statistical Yearbook year by year. Data from 1990 to 1994 are proxied by the sum of outstanding balance of treasury bonds and enterprise bonds in the Wind database.
+
+Table 2. Changes in the market structure of financial assets (1990–September 2018) (comparisons between monetary assets and securities).
+
+Year	Category
+S1/S	M2/S	M2/MS	S/MS
+1990	0.0215	13.7828	0.9324	0.0676
+1991	0.0746	12.8720	0.9279	0.0721
+1992	0.3099	8.3291	0.8928	0.1072
+1993	0.5972	5.9957	0.8571	0.1429
+1994	0.5540	7.0494	0.8758	0.1242
+1995	0.4355	7.6159	0.8839	0.1161
+1996	0.5569	4.3057	0.8115	0.1885
+1997	0.5985	3.1066	0.7565	0.2435
+1998	0.5162	2.7632	0.7343	0.2657
+1999	0.5413	2.4518	0.7103	0.2897
+2000	0.6446	1.8042	0.6434	0.3566
+2001	0.5889	2.1421	0.6817	0.3183
+2002	0.5086	2.4550	0.7106	0.2894
+2003	0.4678	2.4374	0.7091	0.2909
+2004	0.3796	2.6034	0.7225	0.2775
+2005	0.2888	2.6608	0.7268	0.2732
+2006	0.4763	1.8409	0.6480	0.3520
+2007	0.7176	0.8850	0.4695	0.5305
+2008	0.4358	1.7062	0.6305	0.3695
+2009	0.5739	1.4356	0.5894	0.4106
+2010	0.5619	1.5367	0.6058	0.3942
+2011	0.4891	1.9395	0.6598	0.3402
+2012	0.4670	1.9749	0.6639	0.3361
+2013	0.4434	2.0520	0.6723	0.3277
+2014	0.5085	1.6767	0.6264	0.3736
+2015	0.5226	1.3694	0.5780	0.4220
+2016	0.4415	1.3464	0.5738	0.4262
+2017	0.4317	1.2757	0.5606	0.4394
+2018.9	0.3706	1.3722	0.5785	0.4215
+3 Note: The structure of financial assets had not undergone substantial changes until 1990, thus, the analysis on changes in the structure starts from 1990.
+
+As Table 1 shows, M2 increased from 115.91 billion RMB in 1978 to 167.68 trillion RMB in 2017 (180.17 trillion RMB as of September 2018), expanding by about 1,446.6 times with an average annual growth rate (AAGR) of 20.5%. Meanwhile, the nominal gross domestic product (GDP) increased from 364.5 billion RMB in 1978 to 82.71 trillion RMB in 2017, growing 226.9 times with an AAGR of 14.9%. The monetarisation ratio (M2/GDP) increased substantially from 0.318 in 1978 to 2.03 in 2017.
+
+Growth of financial assets
+
+Growth of savings deposits
+In a bank-based financial system, financial assets are best represented by savings deposits, which reveal the wealth effects of economic growth and the change in the size of financial assets. As can be seen in Table 3, the balance of savings deposits was 21.06 billion RMB in 1978, and rocketed to 70.05 trillion RMB as of September 2018, an increase of 3,326 times with an AAGR of 22.48% irrespective of the price factor.
+
+Table 3. Growth in savings deposits (unit: 100 million RMB).
+
+Year	Residential deposits	Year	Residential deposits	Year	Residential deposits	Year	Residential deposits
+1978	210.6	1988	3,819.1	1998	53,407.47	2008	217,885.35
+1979	281	1989	5,184.5	1999	59,621.83	2009	260,771.66
+1980	395.8	1990	7,119.6	2000	64,332.38	2010	303,302.49
+1981	523.4	1991	9,244.9	2001	73,762.43	2011	343,635.89
+1982	675.4	1992	11,757.3	2002	86,910.65	2012	399,551
+1983	892.9	1993	15,203.5	2003	103,617.65	2013	447,601.57
+1984	1,214.7	1994	21,518.8	2004	119,555.39	2014	485,261.3
+1985	1,622.6	1995	29,662.3	2005	141,050.99	2015	546,077.85
+1986	2,237.8	1996	38,520.8	2006	161,587.3	2016	597,751.05
+1987	3,083.4	1997	46,279.8	2007	172,534.19	2017	643,767.62
+4 Data source: 'Summary of Sources and Uses of Credit Funds of Financial Institutions', People's Bank of China, various years.
+
+Growth of securities
+Securities did not exist in the Chinese market until 1981 when treasury bonds were issued. Later in 1990, the Shanghai and Shenzhen stock exchanges were established. Despite their late emergence, the Chinese securities markets have grown at a rapid pace. When stock exchanges were established in 1990, only 13 stocks were listed and the market value by the end of 1991 was 11.22 billion RMB. As of 22 November 2018, the Shanghai and Shenzhen stock exchanges had a total of 3,577 listed companies and a combined market value of 46.60 trillion RMB. Stock is the fastest growing financial asset in terms of size (market capitalisation) among all types of financial assets.
+
+Bonds are another important type of securities. The outstanding bond balance added up to 108.58 billion RMB in 1990, exceeding 100 billion for the first time. Moreover, outstanding bond balance statistics have started to include enterprise bonds in addition to treasury bonds since 1990. By the end of 2017, the outstanding bond balance amounted to 74.69 trillion RMB, with an AAGR as high as 27.4%.
+
+Growth of financial assets according to the MS approach
+The size of financial assets measured with the MS approach increased from 110.96 billion RMB in 1990 to 131.29 trillion RMB as of September 2018, with an AAGR of 28.75%.
+
+Summary
+The analysis above shows that during the reform and opening-up from 1978 to 2018: ( 1) Notwithstanding the rapid economic growth in nominal GDP (with an AAGR of 14.9%), monetary assets (M2) grew even faster with an AAGR of 20.5%; moreover, the monetarisation ratio (M2/GDP) substantially increased from 0.318 to 2.03 over this period. ( 2) Securities, which increased rapidly by 1,183 times with an AAGR of 28.75% from 1990 to September 2018, accounted for a larger proportion of financial assets measured with the MS approach, and have begun to exert important influence on the change in the structure of the financial system. ( 3) With respect to the S indicator, the volume of stocks (S1) and bonds (S2) grew at a similar pace and their relative proportion remained roughly stable over the entire period under study. However, growth rates in specific years differed widely between S1 and S2. ( 4) The change in the size and structure of financial assets measured with the MS approach shows that the financial sector has transformed from a centrally-planned system in 1978 to a market-oriented one; more specifically, market-based securities are playing an increasingly important role.
+
+Changes in the size and structure of financial assets: the financing perspective
+Changes in the size and market structure of financial assets can also be evaluated from the perspectives of direct and indirect financing, i.e. by comparing financing structures and mechanisms. The CS approach is adopted here, whereby financial assets are classified into bank credits (C) and securities (S).
+
+Changing size of financial assets measured with the CS approach
+Table 4 shows that the credits extended by commercial banks and quasi-commercial banks increased from 189.04 billion RMB in 1978 to 120.13 trillion RMB in 2017, or by 635 times, with growth rates of 10–20% in most years. The AAGR of credits was 18%, 3% higher than that of nominal GDP during the same period. The indicator of C/GDP, or the ratio of credits (C) over GDP, is used here to proxy for the correlation between credits and growth. C/GDP increased substantially from 0.52 in 1978 to 1.45 in 2017. As the financial system experiences no structural changes, C/GDP can be interpreted as the output ratio of banks. Thus, the increasing C/GDP ratio suggests that the rapid economic growth in past years is attributable to the even more rapid growth of bank credits. Nonetheless, based on current trends in the financial system as well as the basic laws of economics, it is hard to sustain the pattern that boosts economic growth with greater credit expansion in the future (Figure 3).
+
+Graph: Figure 3. Size of financial assets during 1978–2018 (from the financing perspective).
+
+Table 4. Change in the size of financial assets, 1978–September 2018 (based on direct and indirect financing; unit: 100 million RMB).
+
+Year	Category
+Bank credits (C) (bank outstanding loans)	Securities (S) (S = S1 + S2)	CS (C + S)
+Stock market value (S1)	Bond outstanding balance (S2)	Securities (S)
+Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	Size	Growth (%)
+1978	1,890.42	–	0	0	0	0	0	0	1,890.42	–
+1979	2,082.47	10.16	0	0	0	0	0	0	2,082.47	10.16
+1980	2,478.08	19.00	0	0	0	0	0	0	2,478.08	19.00
+1981	2,853.29	15.14	0	0	48.66	–	48.66	–	2,901.95	17.10
+1982	3,162.70	10.84	0	0	92.49	90.07	92.49	90.07	3,255.19	12.17
+1983	3,566.56	12.77	0	0	134.07	44.96	134.07	44.96	3,700.63	13.68
+1984	4,746.80	33.09	0	0	176.60	31.72	176.60	31.72	4,923.40	33.04
+1985	6,198.38	30.58	0	0	237.21	34.32	237.21	34.32	6,435.59	30.71
+1986	8,142.72	31.37	0	0	299.72	26.35	299.72	26.35	8,442.44	31.18
+1987	9,814.09	20.53	0	0	362.79	21.04	362.79	21.04	10,176.88	20.54
+1988	11,964.25	21.91	0	0	494.96	36.43	494.96	36.43	12,459.21	22.43
+1989	14,248.81	19.09	0	0	633.87	28.06	633.87	28.06	14,882.68	19.45
+1990	17,511.02	22.89	23.82	–	1,085.78	71.29	1,109.6	71.29	18,620.62	25.12
+1991	21,337.80	21.85	112.18	370.95	1,391.08	28.12	1,503.26	35.48	22,841.06	22.67
+1992	26,322.90	23.36	945.06	742.45	2,104.76	51.30	3,049.82	102.88	29,372.72	28.60
+1993	32,943.10	25.15	3,474.29	267.63	2,343.14	11.33	5,817.43	90.75	38,760.53	31.96
+1994	39,976.00	21.35	3,687.83	6.15	2,968.51	26.69	6,656.34	14.42	46,632.34	20.31
+1995	50,544.10	26.44	3,474.27	?5.79	4,502.5	72.16	7,976.77	26.50	58,520.87	25.49
+1996	61,156.60	21.00	10,084.38	190.26	7,830.64	73.92	17,915.02	124.59	79,071.62	35.12
+1997	74,914.10	22.50	17,529.23	73.83	11,761.71	50.20	29,290.94	63.50	104,205.04	31.79
+1998	86,524.10	15.50	19,505.65	11.27	18,295.63	55.55	37,801.28	29.05	124,325.38	19.31
+1999	93,734.30	8.33	26,471.17	35.71	22,430.38	22.60	48,901.55	29.36	142,635.85	14.73
+2000	99,371.07	6.01	48,090.94	81.67	26,518.46	18.23	74,609.40	52.57	173,980.47	21.98
+2001	112,314.70	13.03	43,522.20	?9.50	30,377.96	14.55	73,900.16	?0.95	186,214.86	7.03
+2002	131,293.93	16.90	38,329.13	?11.93	37,030.03	21.90	75,359.16	1.97	206,653.09	10.98
+2003	158,996.23	21.10	42,457.71	10.77	48,304.54	30.45	90,762.25	20.44	249,758.48	20.86
+2004	177,363.49	11.55	37,055.57	?12.72	60,552.30	25.36	97,607.87	7.54	274,971.36	10.09
+2005	194,690.39	9.77	32,430.28	?12.48	79,848.79	31.87	112,279.07	15.03	306,969.46	11.64
+2006	225,285.28	15.71	89,403.90	175.68	98,314.91	23.13	187,718.81	67.19	413,004.09	34.54
+2007	261,690.88	16.16	327,140.89	265.91	128,715.36	30.92	455,856.25	142.84	717,547.13	73.74
+2008	303,394.64	15.94	121,366.44	?62.90	157,127.08	22.07	278,493.52	?38.91	581,888.16	?18.91
+2009	399,684.82	31.74	243,939.12	100.99	181,135.63	15.28	425,074.75	52.63	824,759.57	41.74
+2010	479,195.55	19.89	265,422.59	8.81	206,910.34	14.23	472,332.93	11.12	951,528.48	15.37
+2011	547,946.69	14.35	214,758.10	?19.09	224,318.77	8.41	439,076.87	?7.04	987,023.56	3.73
+2012	629,909.64	14.96	230,357.62	7.26	262,895.07	17.20	493,252.69	12.34	1,123,162.33	13.79
+2013	718,961.46	14.14	230,977.19	0.27	300,163.71	14.18	531,140.90	7.68	1,250,102.36	11.30
+2014	816,770.01	13.60	372,546.96	61.29	360,046.63	19.95	732,593.59	37.93	1,549,363.60	23.94
+2015	939,540.16	15.03	531,304.20	42.61	485,391.40	34.81	1,016,695.60	38.78	1,956,235.76	26.26
+2016	1,066,040.06	13.46	508,245.11	?4.34	643,018.45	32.47	1,151,263.56	13.24	2,217,303.62	13.35
+2017	1,201,320.99	12.69	567,475.37	11.65	746,871.01	16.15	1,314,346.38	14.17	2,515,667.37	13.46
+2018.9	1,332,662.88	10.93	486,609.72	?14.25	826,340.00	10.64	1,312,949.72	?0.11	2,645,612.6	5.17
+5 Data sources: National Bureau of Statistics, Wind, various years.
+
+Changing structure of financial assets measured with the CS approach
+As shown in Table 5 and Figure 4, the market structure of financial assets as measured by the CS approach also demonstrates a trend of change, albeit less markedly than the structural change measured with the MS approach. Table 5 shows a declining C/CS, from 94.04% in 1990 to 50.37% in September 2018. In contrast, securities continued expanding and their proportion in total financial assets rose from 5.96% in 1990 to 49.63% in September 2018. This is partly explained by the rapid growth in local government bonds in recent years (Wu, Tao, and Zhang [ 6]).
+
+Graph: Figure 4. Structure of financial assets during 1978–2018 (from the financing perspective).
+
+Table 5. Changes in the market structure of financial assets (based on direct and indirect financing).
+
+Year	Category
+C/CS	S/CS	S/C	S1/C	S1/S	S1/CS
+1990	0.9404	0.0596	0.0634	0.0014	0.0215	0.0013
+1991	0.9342	0.0658	0.0705	0.0053	0.0746	0.0049
+1992	0.8962	0.1038	0.1159	0.0359	0.3099	0.0322
+1993	0.8499	0.1501	0.1766	0.1055	0.5972	0.0896
+1994	0.8573	0.1427	0.1665	0.0923	0.5540	0.0791
+1995	0.8637	0.1363	0.1578	0.0687	0.4355	0.0594
+1996	0.7758	0.2242	0.2890	0.1609	0.5569	0.1249
+1997	0.7189	0.2811	0.3910	0.2340	0.5985	0.1682
+1998	0.6959	0.3041	0.4371	0.2256	0.5162	0.1570
+1999	0.6572	0.3428	0.5217	0.2824	0.5413	0.1856
+2000	0.5712	0.4288	0.7508	0.4840	0.6446	0.2764
+2001	0.6031	0.3969	0.6580	0.3875	0.5889	0.2337
+2002	0.6353	0.3647	0.5740	0.2919	0.5086	0.1855
+2003	0.6366	0.3634	0.5708	0.2670	0.4678	0.1700
+2004	0.6450	0.3550	0.5503	0.2089	0.3796	0.1348
+2005	0.6342	0.3658	0.5767	0.1666	0.2888	0.1056
+2006	0.5455	0.4545	0.8332	0.3968	0.4763	0.2165
+2007	0.3647	0.6353	1.7420	1.2501	0.7176	0.4559
+2008	0.5214	0.4786	0.9179	0.4000	0.4358	0.2086
+2009	0.4846	0.5154	1.0635	0.6103	0.5739	0.2958
+2010	0.5036	0.4964	0.9857	0.5539	0.5619	0.2789
+2011	0.5552	0.4448	0.8013	0.3919	0.4891	0.2176
+2012	0.5608	0.4392	0.7831	0.3657	0.4670	0.2051
+2013	0.5714	0.4286	0.7500	0.3325	0.4434	0.1900
+2014	0.5272	0.4728	0.8969	0.4561	0.5085	0.2405
+2015	0.4803	0.5197	1.0821	0.5655	0.5226	0.2716
+2016	0.4808	0.5192	1.0799	0.4768	0.4415	0.2292
+2017	0.4775	0.5225	1.0941	0.4724	0.4318	0.2256
+2018.9	0.5037	0.4963	0.9852	0.3651	0.3706	0.1839
+6 Note: No data are available before 1990, thus, the analysis begins with the year 1990.
+
+While the share of S/CS keeps rising, it is important to note the change occurring in the structure of financial assets. On the one hand, the proportion of stock securities (S1/CS) was merely 0.13% in 1990, but it rose to 18.39% by September 2018. However, as the market value of stock securities measures the stock instead of the flow, the actual amount of assets as a means of financing constituted only 25–30% of the market value. In this sense, the share of S/CS was obviously less than 50% in September 2018, observed from the perspective of financing. On the other hand, bonds (S2) make up a large part in securities (S). This is partly due to the rapid growth in local government bonds in recent years, but also to the large amount of financial bonds and corporate bonds (including enterprise bonds) being issued.
+
+Therefore, considering the structure and components of securities assets, it becomes apparent that the Chinese financial system is moving to be more market-oriented and securitised. Nonetheless, we shall be cautious in drawing the conclusion that the structure of China's financial system has fundamentally changed, simply based on the fact that S/CS was approaching 50%.
+
+Changes in the market structure of financial assets held by resident units: a wealth manageme...
+
+Financial assets measured with the FS approach
+A change in the structure of financial assets held by resident units is also indicative of change in the financial system. Table 6 reports the types, amount and structure of resident-held financial assets during 1978–2016. Here insurance reserves (before 2004) and mutual fund shares (2004 and after) are included in securities and denoted as S3, while non-securities assets including currency and deposits are denoted as F, and financial assets are measured using the FS approach where FS = F + S.
+
+Table 6. Change in structure of financial assets of resident units (1978–September 2018) (based on the wealth management approach, unit: 100 million RMB).
+
+Year	Category
+Securities (S)	Non-securities (F)	Total financial assets (FS)	Share of securities and non-securities
+Stock (S1)	Bond (S2)	Insurance reserves (before 2004)/Mutual funds shares (2004 and after) (S3)	Total	Currency and deposits
+Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	S/FS (%)	(S1 + S2) /FS (%)	F/FS (%)
+1978	–	–	–	–	–	–	–	–	380.2	–	380.2	–	–	–	100
+1979	–	–	–	–	–	–	–	–	495.2	30.25	495.2	30.25	–	–	100
+1980	–	–	–	–	–	–	–	–	676.5	36.61	676.5	36.61	–	–	100
+1981	–	–	–	–	–	–	–	–	840.7	24.27	840.7	24.27	–	–	100
+1982	–	–	19.7	–	–	–	19.7	–	1,026.7	22.12	1,046.4	24.47	1.88	1.88	98.12
+1983	–	–	40.5	105.58	–	–	40.5	105.58	1,316.3	28.21	1,356.8	29.66	2.98	2.98	97.02
+1984	–	–	62.6	54.57	–	–	62.6	54.57	1,848.4	40.42	1,911	40.85	3.28	3.28	96.72
+1985	–	–	106.4	69.97	4.8	–	111.2	77.64	2,412.8	30.53	2,524	32.08	4.41	4.22	95.59
+1986	–	–	254.8	139.47	12.9	168.75	267.7	140.74	3,212.7	33.15	3,480.4	37.89	7.69	7.32	92.31
+1987	30	–	328.4	28.89	25.6	98.45	384	43.44	4,245	32.13	4,629	33.00	8.30	7.74	91.70
+1988	105	250.00	463.9	41.26	38.3	49.61	607.2	58.13	5,529.4	30.26	6,136.6	32.57	9.89	9.27	90.11
+1989	125	19.05	595	28.26	46.1	20.37	766.1	26.17	7,022.1	27.00	7,788.2	26.91	9.84	9.24	90.16
+1990	138	10.40	702.8	18.12	56.3	22.13	897.1	17.10	9,235.3	31.52	10,132.4	30.10	8.85	8.30	91.15
+1991	226	63.77	958.6	36.40	78.3	39.08	1,262.9	40.78	11,783.6	27.59	13,046.5	28.76	9.68	9.08	90.32
+1992	293	29.65	1,629.2	69.96	122.6	56.58	2,044.8	61.91	15,158.7	28.64	17,203.5	31.86	11.89	11.17	88.11
+1993	410	39.93	1,929	18.40	157.1	28.14	2,496.1	22.07	19,735.8	30.19	22,231.9	29.23	11.23	10.52	88.77
+1994	488	19.02	2,360.6	22.37	213.6	35.96	3,062.2	22.68	27,349.7	38.58	30,411.9	36.79	10.07	9.37	89.93
+1995	475	?2.66	2,954.9	25.18	304.3	42.46	3,734.2	21.95	35,970.5	31.52	39,704.7	30.56	9.40	8.64	90.60
+1996	1,508	217.47	4,206.3	42.35	431.6	41.83	6,145.9	64.58	45,562.4	26.67	51,708.3	30.23	11.89	11.05	88.11
+1997	2,914	93.24	5,987.2	42.34	503.6	16.68	9,404.8	53.03	54,421.6	19.44	63,826.4	23.44	14.73	13.95	85.27
+1998	3,679	26.25	7,400.2	23.60	762.4	51.39	11,841.6	25.91	62,400.6	14.66	74,242.2	16.32	15.95	14.92	84.05
+1999	4,928.4	33.96	9,702.4	31.11	891.2	16.89	15,522	31.08	70,386.2	12.80	85,908.2	15.71	18.07	17.03	81.93
+2000	9,652.5	95.85	12,274.4	26.51	1,003	12.54	22,929.9	47.73	75,373.7	7.09	98,303.6	14.43	23.33	22.31	76.67
+2001	8,677.9	?10.10	13,941.6	13.58	1,438	43.37	24,057.5	4.92	85,555.6	13.51	109,613	11.50	21.95	20.64	78.05
+2002	7,491	?13.68	15,007.4	7.64	2,298	59.81	24,796.4	3.07	100,733	17.74	125,529	14.52	19.75	17.92	80.25
+2003	7,907.4	5.56	18,082.9	20.49	3,030	31.85	29,020.3	17.03	119,415	18.55	148,435	18.25	19.55	17.51	80.45
+2004	8,897	–	6,293	–	1,905	–	32,974	–	147,395	–	180,369	–	18.28	8.42	81.72
+2005	7,865	?11.60	6,534	3.83	2,449	28.56	38,587	17.02	170,496	15.67	209,083	15.92	18.46	6.89	81.54
+2006	17,001	116.16	6,944	6.27	5,618	129.40	57,394	48.74	194,206	13.91	251,600	20.33	22.81	9.52	77.19
+2007	51,604	203.54	6,707	?3.41	29,716	428.94	128,444	123.79	207,051	6.61	335,495	33.34	38.28	17.38	61.72
+2008	20,157	?60.94	4,981	?25.73	17,011	?42.75	85,770	?33.22	257,100	24.17	342,870	2.20	25.02	7.33	74.98
+2009	47,374	135.03	2,623	?47.34	8,383	?50.72	110,237	28.53	300,632	16.93	410,869	19.83	26.83	12.17	73.17
+2010	56,477	19.22	2,692	2.63	7,346	?12.37	141,499	28.36	353,333	17.53	494,832	20.44	28.60	11.96	71.40
+2011	59,755	5.80	1,898	?29.49	7,952	8.25	172,050	21.59	405,984	14.90	578,034	16.81	29.76	10.67	70.24
+2012	61,619	3.12	4,527	138.51	11,049	38.95	293,806	70.77	468,158	15.31	761,964	31.82	38.56	8.68	61.44
+2013	55,800	?9.44	4,876	7.71	9,753	?11.73	365,091	24.26	496,762	6.11	861,853	13.11	42.36	7.04	57.64
+2014	79,000	41.58	5,579	14.42	9,214	?5.53	466,704	27.83	565,298	13.80	1,032,002	19.74	45.22	8.20	54.78
+2015	125,000	58.23	10,517	88.51	18,141	96.89	568,802	21.88	614,217	8.65	1,183,019	14.63	48.08	11.46	51.92
+2016	146,200	16.96	10,742	2.14	22,116	21.91	623,456	9.6	673,997	9.73	1,297,453	9.67	48.05	12.1	51.95
+7 Data sources: Data before 2004 are obtained from Li ([ 1]). Data for 2004 and beyond are obtained from the National Balance Sheet of China (2015), and Annual Report of the People's Bank of China (2016 and 2017).
+8 Notes: ( 1) Compared with previous tables and figures, securities in this table include insurance reserves/mutual fund shares. ( 2) In 2004 and after, securities include stocks, bonds, mutual fund shares, margins of securities companies, insurance reserves, wealth management and investment products, trading settlement funds, and other financial assets. ( 3) Data for 2015 and 2016 are calculated as in the National Balance Sheet of China (2015).
+Trend of change in the market structure of financial assets
+Consistent with the trend discussed above, Table 6 shows that resident units are holding an ever-increasing share of securities, while their holdings of non-securities simultaneously decrease. During 1978–1981, resident-held financial assets were entirely in the form of currencies and deposits; in other words, no securities were held. Residents started to hold a small proportion of securities as of 1982, but the proportion of non-securities (F/FS) was more than 70% during 1982–2012, except for 2007 when this ratio plummeted from 77.19% to 61.72% due to a bullish stock market. The structure of resident-held financial assets has begun to change significantly as of 2011, when F/FS fell to between 50% and 60% and S/FS was around 40%.
+
+The above analyses show that China's financial system has undergone substantial changes over the past 40 years with regard to key indicators measuring growth and the market structure of financial assets. The financial system in China is approaching the threshold of a structural change, and marching towards a market-based financial system.
+
+Changes in patterns of finance: from homogeneous to diversified
+The patterns of finance in China have also undergone substantial changes over the past four decades, owing to financial disintermediation caused by economic growth and market development, and technology-driven Fintech innovation. Financial disintermediation has boosted growth in the capital market, while the combination of technology and finance is transforming the traditional way of delivering financial services, which can be seen as a second disintermediation. The fact that finance is now entering a high-tech era is inducing profound changes in the patterns of finance. Disintermediation has been changing the financial system constantly yet gradually, but the combination of technology and finance has brought about a significant change in the patterns and functions of finance. In this sense, financial development and modernisation in China is taking a completely different route than that in developed countries.
+
+What market-driven financial disintermediation and technology-driven Fintech innovation have in common is that they both aim to improve the functions and efficiency of finance. Finance has these basic functions: payment and clearing, resource allocation, risk diversification and wealth management. While finance is also thought to play some role in transmitting information and providing incentives to solve the principal-agent problem, the first three functions are the most fundamental and critical ones. Hence, whether a financial system is modern and advanced depends on the realisation and efficiency of the first three functions, which are closely related to patterns of finance.
+
+The stage of homogenous patterns: 1978–2005
+Patterns of finance were highly homogenous between 1978 and 1990, whereby credit operations were almost the only form of financial business. The functions of payment and clearing as well as resource allocation were assumed solely by commercial banks. Moreover, the functions of risk diversification and wealth management barely existed in China.
+
+Financial disintermediation began in 1990 when the Shanghai and Shenzhen stock exchanges were established, which marked the advent of a new era of capital markets. The decision to establish a capital market is hard to be rationalised based on the defining metrics of the market at the time, such as the size of the Chinese economy, per-capita income, depth of marketisation, and people's perceptions about the market. From a historical point of view, history itself could be the best rationalisation, or it could just be coincidence. Coincidence-driven history may shine at a time, but it will inevitably be fettered by various constraints and thus face great difficulties as it continues to unfold. There is no exception for the development of the capital market in China. From a financial point of view, the initial motivation to establish a capital market is the desire to disintermediate from traditional finance or commercial bank credit operations. The market instead of financial intermediaries takes the role of pricing risks and allocating resources. Investors can directly choose and manage their portfolios, and firms (or other parties short of funds) can trade various financing tools with diversified risks and returns. In this sense, the core function of a market-based modern financial system is intertemporal risk allocation.
+
+In the early period, nonetheless, the stock market in China did not operate with this motivation. Instead, it was more of an extension of the central-planning regime in the traditional banking system. Consequently, the central-planning regime had profound impact on the capital market, from the amount of funds raised, the selection of listed companies, the adoption of merit-based regulation, to the market surveillance model. The capital market simply became an alternative for state-owned enterprises to raise funds. China's capital market was thus baffled until the Split-Share Reform in 2005.
+
+As a result, China's capital market played an insignificant role in financial disintermediation from 1990 to 2005, and the structure of the financial system barely changed. The total stock market value amounted to 3,705.5 billion RMB and 3,243 billion RMB in 2004 and 2005, respectively; and two-thirds of the stocks were non-tradable, leaving the tradable market value at approximately 1–1.2 trillion RMB. The size of the capital market was small compared to China's GDP of 16.18 trillion RMB and 18.73 trillion RMB, and bank credits of 17.74 trillion RMB and 19.47 trillion RMB, in 2004 and 2005, respectively. As a result, China's capital market played only a minor role in economic growth and financial structure change during these 15 years. Although non-bank financial institutions grew quickly in terms of type and number during this same period, they functioned similarly to banks. To conclude, from 1990 to 2005, the patterns of finance were highly homogenous in China. The financial system was dominated by commercial banks and quasi-commercial banks. Disintermediation did not become a trend, and no major changes had been made in improving the delivery of the functions of finance.
+
+Acceleration in financial disintermediation
+The Split-Share Reform starting in 2005 played a distinguished role in improving the efficiency of the capital market in resource allocation, accelerating financial disintermediation, and promoting market reform in the financial sector. This reform is the second breakthrough in the history of China's capital market, second only to the establishment of the two stock exchanges in 1990, and it pushed the market reform one step further. After the completion of the reform, the stock market in China experienced huge changes in size, structure, and functions. Table 7 shows that, with the success of the Split-Share Reform, the market size of the stock market exceeded 10 billion RMB for the first time in 2007. Moreover, tradable shares increased dramatically. This marks the end of a partly paralysed market circulation structure.
+
+Table 7. Stock market value and bond outstanding balance before and after the Split-Share Reform (2004–2017, unit: 100 million RMB).
+
+Year	Category
+Stock market value (S1)	Bond outstanding balance (S2)	Securities (S = S1 + S2)
+2004	37,055.57	25,777.6	62,833.17
+2005	32,430.28	28,774	61,204.28
+2006	89,403.90	31,448.69	120,852.6
+2007	327,140.89	56,424.3	383,565.2
+2008	121,366.44	63,018.42	184,384.9
+2009	243,939.12	83,490.78	327,429.9
+2010	265,422.59	104,003.05	369,425.6
+2011	214,758.10	200,675	415,433.1
+2012	230,357.62	253,594	483,951.6
+2013	230,977.19	294,485	525,462.2
+2014	372,546.96	348,978	721,525
+2015	531,304.20	483,449	1,014,753
+2016	508,245.11	574,652	1,082,897
+2017	567,475.37	744,104	1,311,579
+9 Data source: Wind.
+
+In addition, the successful stock market reform, coupled with the growing size in the outstanding bond balance, gave rise to the function of wealth management, which had not existed in China's financial system.
+
+During the process of accelerated financial disintermediation, the stock market experienced two crashes. The first occurred around October 2017. After the market index climbed from 998 points on 6 June 2005 to 6,124 points on 16 October 2007, its downward descent began, marking the start of six years of bearish period (Figure 5).
+
+Graph: Figure 5. Dynamics of the Shanghai Stock Exchange Composite Index: June 2005–December 2014. Data source: Wind.
+
+The second crash occurred in June 2015. After lingering around a market index level of 2,000 points for six years, the market revived in July 2014 and went bullish for eight months. Driven by multiple positive factors, the market index rose dramatically and irrationally from 3,224 points on 9 March 2015 to 5,166 points on 12 June 2015. During this short period of three months and three days, the trading volume amounted to approximately 2 trillion RMB every day, whereby a record high of 2.4 trillion RMB occurred on 28 May 2015. Apart from several large companies in the banking, petroleum, and petrochemical industries, the average price to equity ratio (P/E) was more than 50 for most companies. The average P/E of the ChiNext board (growth enterprise market in China) exceeded 150. It seemed reasonable to expect that a market crisis could break out any time.
+
+On 15 June 2015, stock prices started to crash sharply. During the following two months and eight days, the Shanghai Stock Exchange Composite Index fell from the peak of 5,166 points to 2,850 points as of 26 August 2015, a drop of 45%. The ChiNext Price Index fell by 51.8% (Figures 6–7). This was the most severe market crisis since the stock exchanges were established in China, and the stock market in China has not fully recovered to date (Wu [ 4], 28–40). The market crisis in June 2015 is a clear reminder of the difficulties and complexities in developing the capital market. Serious analyses of the crisis are essential to enhance financial stability in China in the future.
+
+Graph: Figure 6. Dynamics of the Shanghai Stock Exchange Composite Index: April 2014–December 2015. Data source: Wind.
+
+Graph: Figure 7. Dynamics of the ChiNext Price Index: April 2014–December 2015. Data source: Wind.
+
+Emergence of the internet-based finance
+A new pattern of finance has evolved as emerging technologies, such as information and communications technology, artificial intelligence (AI), big data, cloud computing, and blockchain technology, are increasingly integrated with finance. This new product and service market is termed as 'Fintech'. Initially, this new pattern of finance did not have an agreed-upon name, nor was its difference from traditional finance well understood. Xie and Zou are among the first to theoretically analyse and define it as the 'internet-based finance mode' (Xie and Zou [ 8], 11). I build on this analysis to define internet-based finance as a new pattern of finance. This new pattern of finance, fundamentally different from both the indirect financing of traditional commercial banking and the direct financing of the capital market, is a third finance pattern based on technology-driven disintermediation. Fintech products and services are effective in overcoming time and space constraints (Wu [ 2], [ 3]). Internet-based finance is essentially an outcome of a second disintermediation of finance.
+
+There are four types of internet-based finance in practice: third-party payment, internet financing (internet microcredit, P2P, and crowdfunding), internet investment (fund providers in P2P and crowdfunding), and virtual currencies. Among these types, third-party payment is the most representative and most successful, while internet financing and internet investment, especially P2P, have experienced the most chaotic development (Table 8).
+
+What are the underlying causes for the success and failure of the different types of internet-based finance? Understanding the basic features and core functions of internet-based finance is a pre-requisite to answering this question.
+
+First, the core differences between internet-based finance and traditional finance relate to data acquisition, data volumes, and data processing. Internet-based finance rests on big data and cloud computing, all of which enhance information transparency, reliability, and symmetry. Thus, internet-based finance products and services can solve problems of information asymmetry and identify financial risks. The foundation for internet-based finance is big data and its ability to effectively acquire and process such data.
+
+Table 8. Market size of internet-based finance (2011–2017, unit: 100 million RMB).
+
+Time	Category
+Third-party payment	Internet microcredit	P2P	Crowdfunding
+2011	22,800	3,914.74	31.00	–
+2012	38,100	5,921.38	212.00	–
+2013	92,200	8,191.27	1,058.00	3.35
+2014	247,200	9,420.38	2,528.17	21.58
+2015	494,800	9,411.51	9,823.04	114.24
+2016	992,700	9,272.8	20,638.72	224.78
+2017	1,432,600	9,799.49	28,048.49	220.25
+10 Data sources: People's Bank of China, Wind, www.wdzj.com, and Yingcan Consulting.
+11 Note: The crowdfunding data of 2013, 335 million RMB, is the sum of numbers in 2013 and previous years.
+The second feature of internet-based finance lies in its different means of achieving the three basic functions of finance (payment and clearing, resource allocation, risk diversification and wealth management), as compared to traditional finance. In terms of the payment and clearing function, third-party payment has been effective in enhancing efficiency and convenience by transforming the tools, means, and ideas of payment. Internet-based finance competes with traditional finance by offering alternative payment methods. Third-party payment has been a technological revolution with overwhelming implications for traditional means of payment in finance. Just as the capital market has transformed the way of financing, third-party payment transforms the way of payment. In terms of resource allocation, risk diversification, and wealth management, the common forms of internet financing and internet investment are a substantial supplement and extension to the financing and wealth management functions conventionally fulfilled by commercial banks and the capital market, as internet-based finance targets the so-called 'long tail customers', the customers without easy access to traditional finance. Thus, internet-based finance promotes inclusive finance (Table 9).
+
+Table 9. Comparisons between third-party and traditional payments (2009–2017).
+
+Time	Category
+Total payment	Third-party payment	Traditional payment
+Total (trillion)	Number of payment ?billion?	Growth (%)	Total (trillion)	Number of payment ?billion?	Growth (%)	Total (trillion)	Number of payment ?billion?	Growth (%)
+2009	716.29	–	–	0.54	–		715.75	21.41	–
+2010	906.25	–	26.52	1.07	–	98.15	905.18	27.70	26.47
+2011	1,106.63	–	22.11	2.28	–	113.08	1,104.35	33.83	22.00
+2012	1,290.13	–	16.58	3.81	–	67.11	1,286.32	41.14	16.48
+2013	1,616.78	65.50	25.32	9.22	15.34	141.99	1,607.56	50.16	24.97
+2014	1,842.10	100.17	13.94	24.72	37.42	168.11	1,817.38	62.75	13.05
+2015	3,498.33	176.47	89.91	49.48	82.15	100.16	3,448.85	94.32	89.77
+2016	3,786.51	289.01	8.24	99.27	163.90	100.63	3,687.24	125.11	6.91
+2017	3,903.20	447.63	3.08	143.26	286.75	44.31	3,759.94	160.88	1.97
+12 Data source: People's Bank of China, various years.
+13 Notes: Traditional payment refers to the bank non-cash payment business, including cheques, bills, notes, debit cards, transfers, collections with acceptance, and domestic letters of credit. Third-party payment refers to internet payment businesses by non-bank institutions, excluding gifted money which is driven by an entertainment motive instead of an actual payment motive. Total payment as the sum of these two terms does not include cash payment.
+It is of note that different types of internet-based finance have generated entirely different outcomes and received different social recognition. Third-party payment has achieved great success by satisfying customers' demand for flexible, convenient, and safe payments, promoting transformations in economic structure and consumption patterns, and at the same time, not incurring greater risks than traditional finance. Alipay and WeChat Pay are outstanding representatives. They have become the epitome of modernisation in China's financial sector and have gained reputation for their prominent contribution in triggering a technological revolution in payments. In contrast, P2P, as another type of internet-based finance, is among the most widely criticised. The reason why P2P has achieved so little success and has a poor reputation is twofold. First, the lack of an integrated platform for big data cripples P2P's ability to effectively acquire and process information, thus impairing its effectiveness in alleviating information asymmetry. Second, the inclusive feature of internet-based finance is not well understood and thus, quite a few technically unqualified and conceptually wrong practitioners treat P2P as an opportunity for profiteering. This has resulted in the situation that many P2P platforms escaped with investors' money and some even went so far as to become Ponzi schemes, masked with concepts of internet-based finance.
+
+Internet-based finance is now entering a stage of market adjustment; products and services are being held accountable for prior market failures and are subjected to stricter supervision. There is no doubt that third-party payment, especially mobile payment, has become a symbol of China's internet-based finance. Thus far, finance in China has undergone market-driven financial disintermediation and technology-driven Fintech innovation. It is now stepping into a new era with diversified patterns and fiercer competition.
+
+Changes in financial risks: from capital adequacy to transparency
+With the expanding size and changing structure of financial assets, as well as increasingly diversified patterns in the financial industry, the functions of finance are becoming more efficient. Accordingly, the forms and weights of financial risks are also undergoing major changes.
+
+Functions of finance: from simply financing to including wealth management
+At the onset of the reform and opening-up, China's financial sector functioned in a homogenous and inefficient way. Commercial banks were the major players in payment, clearing, and resource allocation. Resources were allocated in a centrally planned rather than market-driven way.
+
+As finance is becoming a market-oriented, high-tech, and internationalised industry, together with the extensive and profound impact of Fintech, the functions of finance in China can be considered to have made a historical leap by the end of 2018. In particular, the change in payment mechanisms can be deemed a profound technological revolution. Apart from technological revolution in terms of payment, the financial sector is steadily transforming to a system with more diversified and comprehensive functions. The proportion of financial resources allocated by the market is continuously climbing, and recent data suggest it is reaching the threshold of 50%. Wealth management has become as important as financing in the financial industry of China. In fact, this has been the greatest improvement in China's finance.
+
+Forms of financial risks: institutional risk and market risk
+Profound changes in financial risks have accompanied the changing market structure, patterns, and functions of finance. There are multiple ways to classify financial risks. The most popular one takes on the micro-perspective of financial institutions and classifies financial risks into credit risk, market risk, liquidity risk and operational risk. Credit risk measures solvency. Liquidity risk measures the ability to cash out. Market risk usually manifests as dramatic fluctuations in price, while operational risk typically stems from defective trading systems, unqualified technical skills or poor management.
+
+Based on the sources of risks, financial risks can also be classified into institutional risk and market risk, which correspond more closely to components of the modern financial system. Although institutional risk may involve credit expansion, monetary multiplier, and credit default, or manifest as an aggregation of various risks from a microperspective, at its core, it is determined by capital adequacy. In this sense, institutional risk concerns leverage, which is why capital adequacy is the primary regulatory indicator for commercial and quasi-commercial banks. In a financial system where the market does not play a major role, institutional risk is the most critical financial risk and thus, the focus of supervision.
+
+In disintermediated markets, capital markets are large and market risk is parallel to institutional risk. The underlying idea of disintermediation is to bypass capital constraints on financial institutions and to finance without financial intermediaries. This emerging financial service free of capital constraints manifests itself in the form of information sets. Traders or investors make trading decisions based on interpretations and judgements of these information sets. Hence, market risk concerns information disclosure. While institutional risk focusses on capital adequacy, market risk focusses on transparency. In a financial system where the market plays an important role, transparency risk is the most important form of financial risks. In a modern financial system, institutional risk and market risk are two basic forms of financial risks with varying sources and properties.
+
+Changes in the structure of financial risks
+The previous discussion reveals a dramatic change in the structure of China's financial system, where securities are growing in proportion and approaching the threshold of a substantial structural change, patterns of finance are becoming much more diversified, and functions of finance are expanding from finance to including wealth management. Following this trend, the structure of financial risks has also transformed from purely institutional risk in the early stages of the reform, to the current coexistence of institutional risk and market risk. This change can be analysed from three points of view.
+
+First, risk structure within commercial banks has undergone substantial changes. In a bank-based financial system as in China, commercial banks play a major role. Over the past 40 years of market reform, the asset structure of commercial banks has changed greatly. This is illustrated by the relative size and structure of on- and off-balance sheet business.
+
+While aggregate data of the entire banking industry in China on the volume and asset structure for on- and off-balance sheet items are unavailable, Tables 10 and 11 show the dynamics of two representative banks, the Industrial and Commercial Bank of China (ICBC) and the China Merchants Bank (CMB). It can be seen that both the volume and the relative share of off-balance sheet items are increasing. The proportion of off-balance sheet items of ICBC increased from 10.96% in 2005 to 27.66% in 2017. The CMB shows even stronger growth of off-balance sheet assets whereby the relative share rose from 9.87% in 2001, to 23.20% in 2005 and up to 43.74% in 2017. These changes have occurred due to increased flexibility of governance and better innovative abilities. As a result, the growth in the banks' wealth management and investment business and hence, in its off-balance sheet assets, has been rapid since 2004.[ 1]
+
+Table 10. Asset structure of the Industrial and Commercial Bank of China (on- and off-balance sheet items) (2005–2017, unit: 100 million RMB).
+
+Year	Category
+On-balance sheet (1)	Off-balance sheet (2)	On- and off-balance sheet (3)	Structure
+Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	(1)/(3) (%)	(2)/(3) (%)
+2005	64,572.39	–	7,950.98	–	72,523.37	–	89.04	10.96
+2006	75,091.18	16.29	11,246.78	41.45	86,337.96	19.05	86.97	13.03
+2007	86,842.88	15.65	16,233.42	44.34	103,076.30	19.39	84.25	15.75
+2008	97,576.54	12.36	16,273.99	0.25	113,850.53	10.45	85.71	14.29
+2009	117,850.53	20.78	19,849.86	21.97	137,700.39	20.95	85.58	14.42
+2010	134,586.22	14.20	28,935.80	45.77	163,522.02	18.75	82.30	17.70
+2011	154,768.68	15.00	34,527.33	19.32	189,296.01	15.76	81.76	18.24
+2012	175,422.17	13.34	38,550.87	11.65	213,973.04	13.04	81.98	18.02
+2013	189,177.52	7.84	46,444.06	20.47	235,621.58	10.12	80.29	19.71
+2014	206,099.53	8.95	48,716.91	4.89	254,816.44	8.15	80.88	19.12
+2015	222,097.80	7.76	81,795.88	67.90	303,893.68	19.26	73.08	26.92
+2016	241,372.65	8.68	88,407.31	8.08	329,780	8.52	73.19	26.81
+2017	260,870.43	8.08	99,734.89	12.81	36,0605.3	9.35	72.34	27.66
+14 Data source: Annual reports of the Industrial and Commercial Bank of China.
+15 Notes: Off-balance sheet assets generally refer to assets that are not listed on the balance sheet but bring about gains and losses to the bank. A narrower definition of off-balance sheet assets refers to assets that are not listed on the balance sheet but are contingent assets that may become on-balance sheet assets, including guarantees, acceptances, and financial derivatives. The broad definition also includes bank wealth management and investment products.
+Table 11. Asset structure of the China Merchants Bank (on- and off-balance sheet items) (2001?2017, unit: 100 million RMB).
+
+Category
+Year	On-balance sheet (1)	Off-balance sheet (2)	On- and off-balance sheet (3)	Structure
+Size	Growth (%)	Size	Growth (%)	Size	Growth (%)	(1)/(3) (%)	(2)/(3) (%)
+2001	2,663.31	–	291.62	–	2,954.93	–	90.13	9.87
+2002	3,716.60	39.55	519.63	78.19	4,236.23	43.36	87.73	12.27
+2003	5,038.93	35.58	930.86	79.14	5,969.79	40.92	84.41	15.59
+2004	5,865.74	16.41	1,542.87	65.75	7,408.61	24.10	79.17	20.83
+2005	7,346.12	25.24	2,219.01	43.82	9,565.13	29.11	76.80	23.20
+2006	9,341.02	27.16	3,619.85	63.13	12,960.87	35.50	72.07	27.93
+2007	13,105.52	40.30	5,450.05	50.56	18,555.57	43.17	70.63	29.37
+2008	15,717.97	19.93	5,423.37	?0.49	21,141.34	13.94	74.35	25.65
+2009	20,679.41	31.57	7,725.39	42.45	28,404.80	34.36	72.80	27.20
+2010	24,025.07	16.18	8,967.20	16.07	32,992.27	16.15	72.82	27.18
+2011	27,949.71	16.34	8,961.05	?0.07	36,910.76	11.88	75.72	24.28
+2012	34,080.99	21.94	10,096.70	12.67	44,177.69	19.69	77.15	22.85
+2013	40,163.99	17.85	16,573.26	64.15	56,737.25	28.43	70.79	29.21
+2014	47,318.29	17.81	26,072.13	57.31	73,390.42	29.35	64.47	35.53
+2015	54,749.78	15.71	35,077.86	34.54	89,827.64	22.40	60.95	39.05
+2016	59,423.11	8.54	38,349.98	9.33	97,773.09	8.85	60.78	39.22
+2017	62,976.38	5.98	48,954.43	27.65	111,930.8	14.80	56.26	43.74
+16 Data source: Annual reports of the China Merchants Bank.
+
+Accompanying the change in structure of on- and off-balance sheet assets is the change in the structure of financial risks. The off-balance sheet business is a type of financial innovation that bypasses capital constraints, often manifesting in the form of contingent liabilities or contingent assets. A major component of the off-balance sheet business is wealth management and investment products, for which information disclosure becomes the focus of supervision. In line with the above assessment of market risk, transparency risk becomes the critical source of risk for the off-balance sheet business. Therefore, the risks in the Chinese financial system have transformed from previous capital inadequacy to the coexistence of capital inadequacy and transparency risk.
+
+As shown above, whether by the MS, the CS, or the FS approach, the proportion of securities in all financial assets has been steadily climbing, reaching 43.94%, 50.07%, and 48.05%, respectively, in 2017. Within securities (S), both stocks (S1) and bonds (S2) face risks of transparency, but with varying sources, forms, and underlying causes. Risks in bonds mainly stem from credit risk or solvency, which is indirectly related to information disclosure or transparency of issuers. Risks in bonds usually manifest as price fluctuations within a specific region. The underlying causes of bond risks are interest rates, yields of alternative financial assets, and credit ratings. Unlike bonds, risks in stocks stem directly from information disclosure and transparency, instead of the credit ratings of issuers. Price fluctuations for stocks are also usually larger than those for bonds, without any bounded range. Though stock risks are associated with variables of interest rates and exchange rates, the core underlying cause is the expectations of firm performance, including earnings and non-earnings expectations (Wu [ 6]). This reveals the growing influence of transparency in the risk structure of the financial system and the declining weight of capital inadequacy though it is still large.
+
+The emergence of the new financial pattern of Fintech or internet-based finance also plays a role in transforming the risk structure of the financial system. Internet-based finance is in essence finance, and hence, risks inherent to internet-based finance are similar to those of commercial banking and the capital market. Nonetheless, internet-based finance is a new pattern of finance driven by the second disintermediation, resulting in different sources of risks and more composite risks (Wu [ 3]).
+
+In short, over the past 40 years since the reform and opening-up, the risk structure of China's financial system has undergone substantial changes. Institutional risk or capital inadequacy used to be the single indicator of financial risks in China. However, transparency-based market risk is gaining weight. China has entered a new era with the coexistence of institutional risk and market risk. In addition, if financial openness continues to increase, financial risks can be expected to become even more complicated in the future.
+
+Financial openness and internationalisation
+There are two core indicators that measure the financial openness of a country: the formation of exchange rates, and the international capital flows. Prudent and gradual market reforms have been undertaken to address these two aspects over the past 40 years in China, and as a result an open financial system has been established.
+
+Reform of the RMB exchange rate mechanism
+Prior to 1980, China had a single exchange-rate system. It then shifted to a dual exchange-rate mechanism to encourage exporters to earn foreign currency during 1981–1993. It went through a stage where the official rate and internal settlement rate for trade coexisted (1981–1984), and a stage when the official rate and swap rate coexisted (1985–1993). On the one hand, the dual exchange-rate mechanism did promote export and thus foreign exchanges earnings, as well as foreign direct investments. On the other hand, the existence of dual exchange rates not only disturbed the foreign exchange market, but also destabilised and discredited the RMB. Therefore, reforming the dual exchange-rates mechanism became imperative. A reform was conducted on 1 January 1994, with the aim of merging the dual exchange rates and establishing a single, managed floating exchange rate system in which exchange rates were determined by market supply and demand. This reform laid the foundation for future market reforms of RMB exchange rates.
+
+As economic growth and structural reform progressed steadily in China, a major reform was launched on 21 July 2005, introducing substantial adjustments and improvements to the single and managed floating exchange rate mechanism established in 1994. The gist of this reform was to peg RMB exchange rates to a basket of major currencies instead of being pegged directly to the USD. This was a historical step in the reform of the RMB exchange rate mechanism. Evidence shows convincingly that this reform promoted stability in RMB exchange rates while maintaining its rationality and equilibrium. In the following years, the central bank made further but minor adjustments to the exchange rate mechanism to broaden the floating range of bilateral exchange rates between the RMB and USD. On 1 April 2012, the floating range was widened from 0.5% to 1%, and on 15 March 2014, it was further expanded from 1% to 2%. After these adjustments, the RMB exchange rate flexibility has been clearly increased. Broadening the floating range is one of the key issues in the market reform of the exchange rate mechanism.
+
+On 11 August 2015, the so-called '11 August reform' was launched. The main idea of this reform was to set the reference rate based on the closing rate of the last trading day and broaden the floating range to ±2%. Price fluctuated widely when this was practiced. Given this situation, the relative changes in a basket of currencies were later introduced into the mechanism in December 2015. As a result, the new reference rate formation mechanism including 'last trading day closing rate + relative changes of a basket of currencies' was established, which somehow alleviated the depreciation pressure on the RMB (Xiao [ 7]). A 'countercyclical factor' was also included in the mechanism on 26 May 2017 to improve the exchange rate formation mechanism and to hedge against procyclical fluctuations in the foreign exchange market (Zhong and Zhang [ 9]). Practice shows that the countercyclical factor had some effects on expectations in the foreign exchange market and helped equilibrate RMB exchange rates.
+
+The common thread in the exchange rate reforms over the past 40 years is the increasing market orientation. Reference rates are now determined by institutional offered rates and market closing rates. Reference currencies have expanded from the USD to a basket of major currencies. The floating range continues to broaden, and the formation mechanism has evolved from direct administrative determination to window guidance, and, finally, to countercyclical factor adjustments. While adhering to a clear market orientation, China has adopted a prudent, exploratory, and trial-and-error manner in the RMB exchange rate reform. After different stages of exchange rate reforms, the RMB exchange rate is now approaching a reasonable valuation range (Table 12 and Figure 8).
+
+Graph: Figure 8. Dynamics of bilateral exchange rate between RMB and USD: 1978–2018.
+
+Table 12. Bilateral exchange rate between RMB and USD (1978–2018).
+
+Year	Exchange rate	Year	Exchange rate	Year	Exchange rate	Year	Exchange rate
+1978	1.5771	1989	3.7659	2000	8.2784	2011	6.3353
+1979	1.4962	1990	4.7838	2001	8.2768	2012	6.2855
+1980	1.5303	1991	5.3227	2002	8.277	2013	6.07
+1981	1.7051	1992	5.5149	2003	8.2775	2014	6.119
+1982	1.8926	1993	5.7619	2004	8.2768	2015	6.4936
+1983	1.9757	1994	8.6187	2005	8.0860	2016	6.937
+1984	2.327	1995	8.3507	2006	7.8790	2017	6.5342
+1985	2.9367	1996	8.3142	2007	7.4543	2018	6.9734
+1986	3.4528	1997	8.2898	2008	6.8283	–	–
+1987	3.7221	1998	8.2791	2009	6.8276	–	–
+1988	3.7221	1999	8.2796	2010	6.6636	–	–
+17 Data source: People's Bank of China, various years.
+18 Note: Data after 2001 represent closing rates of the last trading day of the year; the 2018 data are calculated according to the closing rate of the last trading day in October.
+International capital flows
+International capital flows consist of inward investments of foreign capital and outward investments of domestic capital. Inward investments of foreign capital can be further decomposed into foreign direct investments (FDI) and portfolio investments. International capital flows into China have fluctuated wildly since 2005.
+
+In the early period of reform and opening-up, with strict control over foreign exchanges in China, international capital flows were almost absent, except for a small amount of outward investment in the form of international aid. Though there was a small amount of FDI, it was in the form of foreign lending. As the reform and opening-up deepened, international capital flows started to appear, but for a long period of time they were mainly in the form of FDI. FDI grew rapidly from 0.92 billion RMB (including foreign borrowing) in 1983 to 136 billion RMB in 2017. Table 13 shows the size and growth of FDI in China after 2005, its proportion in the global FDI, and a comparison with the US.
+
+Table 13. Size and growth of FDI in China, worldwide, and in the US (2005–2017, unit: 100 million USD).
+
+Year	Category
+China	Worldwide	US
+Size	Growth (%)	Size	Growth (%)	Size	Growth (%)
+2005	724	–	9,458	–	1,048	–
+2006	727	0	13,059	38	2,367	126
+2007	835	15	18,330	40	2,328	?2
+2008	1,083	30	17,710	?3	3,248	40
+2009	950	?12	11,140	?37	1,299	?60
+2010	1,147	21	13,810	24	1,979	52
+2011	1,240	8	16,042	16	2,269	15
+2012	1,197	?3	13,107	?18	1,467	?35
+2013	1,240	4	14,500	11	1,880	28
+2014	1,290	4	13,240	?9	1,070	?43
+2015	1,360	5	17,620	33	3,800	255
+2016	1,340	?1	17,460	?1	3,910	3
+2017	1,360	1	14,300	?18	2,750	?30
+19 Data sources: UNCTAD World Investment Reports (2008–2018).
+
+Net flows of outward investment in China did not exceed the threshold of one billion USD until 1991; stocks of outward investment were also small at that time. After reaching one billion USD in 1991, outward investment exceeded 10 billion USD in 2005 (reaching 12.27 billion USD), and 100 billion USD in 2013 (reaching 101 billion USD). Net outflows reached a record high of 183 billion in 2016, but fell to 125 billion in 2017. Tables 14 and 15 show the net flows of outward investment in China from 1990 to 2017, and the bilateral investments between China and US between 2010 and 2017.
+
+Table 14. Net flows and growth of outward investment in China (1990–2017, unit: 100 million USD).
+
+Year	Category
+Net flows	Growth (%)
+1990	9	–
+1991	10	11
+1992	40	300
+1993	43	8
+1994	20	–53
+1995	20	0
+1996	21	5
+1997	26	24
+1998	27	4
+1999	19	–30
+2000	10	–47
+2001	69	590
+2002	27	–61
+2003	28.5	6
+2004	55	93
+2005	122.7	123
+2006	211.60	72
+2007	265.10	25
+2008	559.10	111
+2009	565.30	1
+2010	688	22
+2011	746	8
+2012	880	18
+2013	1,010	15
+2014	1,230	22
+2015	1,280	4
+2016	1,830	43
+2017	1,250	–32
+20 Data sources: UNCTAD World Investment Reports (2008–2018); and Wind.
+
+Table 15. Comparisons between China and US regarding outward investment net flows (2010–2017, unit: 100 million USD).
+
+Year	Category
+China	US
+2010	688	3,044
+2011	746	3,967
+2012	880	3,070
+2013	1,010	3,380
+2014	1,230	3,170
+2015	1,280	3,000
+2016	1,830	2,990
+2017	1,250	3,420
+21 Data source: UNCTAD World Investment Reports, various years.
+
+In terms of international capital flows in the capital market, the RMB has achieved full convertibility under the current account and partial convertibility under the capital account since December 1996. Full convertibility under the capital account has not yet been fulfilled. Under such circumstances, the Qualified Foreign Institutional Investor (QFII) policy was implemented on 15 November 2002 when the Chinese government issued the Provisional Measures on Administration of Domestic Securities Investments of Qualified Foreign Institutional Investors, to promote openness and internationalisation of the capital market, as well as to introduce limited access to foreign investors into China's capital market. On 9 July 2003, UBS finished the first trade through QFII, marking the opening-up of China's capital market. At the end of 2011, after nine years of QFII, the RMB Qualified Foreign Institutional Investor (RQFII) policy was launched. QFII and RQFII are transitional institutional arrangements for opening up the capital market when full convertibility under a capital account is not available, which have substantially boosted the internationalisation of China's capital market. As of 30 October 2018, QFII exceeded 100 billion USD, while RQFII exceeded 600 billion RMB (Tables 16–17).
+
+Table 16. QFII balance (unit: 100 million USD).
+
+Date	Category
+QFII balance
+31 December 2012	374.43
+30 July 2013	449.53
+26 August 2014	596.74
+28 August 2015	767.03
+29 September2016	817.38
+30 August 2017	939.94
+30 August 2018	1,004.59
+30 October 2018	1,002.56
+22 Data source: State Administration of Foreign Exchange of China, various years.
+
+Table 17. RQFII Balance (unit: 100 million RMB).
+
+Time	Category
+RQFII balance
+30 July 2013	1,219
+27 January 2014	1,678
+30 January 2015	3,045
+28 August 2015	4,049
+30 March 2016	4,714.25
+31 July 2017	5,482.41
+30 August 2018	6,274.72
+30 October 2018	6,426.72
+23 Data source: State Administration of Foreign Exchange of China, various years.
+
+Another transitional measure is the connection between the Shanghai, Shenzhen, and Hong Kong stock exchanges, namely, the Shanghai-Hong Kong Stock Connect (Shanghai Connect) and Shenzhen-Hong Kong Stock Connect (Shenzhen Connect). The Shanghai Connect took effect on 17 November 2014, and the Shenzhen Connect took effect on 5 December 2016. Both Connects have limits on maximum daily trading volumes. A limit of annual maximum trading volumes of 550 billion RMB was set at the launch of the Shanghai Connect, but was removed from both Connects after the Shenzhen Connect was established. Statistics show that daily trading volumes for both the Shanghai Connect Northbound and Shenzhen Connect Northbound have risen month by month, though they still constitute less than 5% of the total trading volumes in the Shanghai and Shenzhen stock exchanges (Tables 18–19).
+
+Table 18. Trading volumes of Shanghai Connect Northbound (unit: 100 million RMB).
+
+Time	Category
+Monthly average of daily trading volumes
+September 2015	38.99
+December 2015	29.77
+March 2016	41.59
+June 2016	28.05
+September 2016	31.98
+December 2016	43.16
+March 2017	41.76
+June 2017	52.14
+September 2017	57.15
+December 2017	77.08
+March 2018	92.81
+June 2018	134.65
+September 2018	104.49
+24 Data source: Wind.
+
+Table 19. Trading volumes of Shenzhen Connect Northbound (unit: 100 million RMB).
+
+Time	Monthly average of daily trading volumes	Time	Monthly average of daily trading volumes
+December 2016	15.41	December 2017	60.04
+January 2017	14.05	January 2018	76.05
+February 2017	18.61	February 2018	89.57
+March 2017	26.09	March 2018	78.73
+April 2017	33.36	April 2018	91.67
+May 2017	34.09	May 2018	85.00
+June 2017	38.29	June 2018	95.39
+July 2017	34.92	July 2018	87.47
+August 2017	38.86	August 2018	88.15
+September 2017	47.98	September 2018	77.84
+October 2017	60.26	October 2018	101.05
+November 2017	73.77	–	–
+25 Data source: Shenzhen Stock Exchange.
+
+FDI, outward investment, QFII, RQFII, Shanghai Connect and Shenzhen Connect are key indicators of international capital flows and financial openness in China. The analysis above shows the unbalanced nature of openness in China's financial market. FDI has grown rapidly and is large in terms of the total amount. In fact, China has become the second largest recipient of FDI in the world. Outward investment has also witnessed rapid growth in recent years, but its growth is limited by constraints under the capital account and concerns over safety of foreign exchange reserves. QFII, RQFII, Shanghai Connect, and Shenzhen Connect are only transitional measures meant to increase the accessibility of China's domestic capital market. Due to this and the institutional defects of China's capital market, the proportion of A shares in the stock market held by foreign investors has long been around 2%. Therefore, from an investment perspective, financial openness in China is still at a rudimentary stage.
+
+International influence
+The international influence of a country's financial system depends largely on the impact of its currency and capital market. The international influence of a currency is closely related to the country's economic competitiveness, level of marketisation, internationalisation, as well as its exchange rate mechanism. Given the RMB's partial openness and convertibility under the capital account, the following four indicators are effective in measuring its international influence: share of usage as currency of settlement in international trade, share in the SDR basket, size of its offshore market and volume of currency swaps with other central banks.
+
+Use of RMB in international trade settlement
+RMB has been continually used for cross-border trade settlements, though usually in small volumes, since the beginning of the reform and opening-up. But it was only after 2010 that RMB begun to be used on a considerable scale as the currency of settlement. Data of SWIFT show that the volume of trade settled in RMB was 128.4 billion RMB in January 2012, ranked 20th and accounting for 0.25% of the total settlement in the world. It rose to be the eighth and its share increased to 1.12% in December 2013. When it came to August 2015, the share of RMB trade settlement was 2.79%, surpassing the Japanese Yen (2.76%) and ranked the fourth in the world. It fell to be 1.89% and ranked fifth in September 2018. In recent years, the rank of RMB trade settlement has been either fourth, fifth or sixth, indicating the limited influence of RMB regardless of improvement in its impact (Table 20 and Figure 9).
+
+Share and status of RMB in SDR
+Before RMB was included in the SDR basket, there were only four currencies: USD with a share of 41.9%, EUR 37.4%, GBP 11.3% and JPY 9.4%. Considering China's successful reforms and the RMB's role in international trade, the board of the International Monetary Fund moved to include the RMB into the SDR basket with a share of 10.92% on 30 November 2015. This officially took effect on 1 October 2016. RMB's share in the SDR basket was ranked the third, lower than USD and EUR but higher than GBP and JPY (Table 21).
+
+Graph: Figure 9. Share and rank of RMB trade settlement.
+
+Table 20. Rank, share and size of RMB trade settlement (2011–2018, unit: 100 million RMB).
+
+Time	Category
+Rank	Share (%)	Monthly trade volumes settled in RMB
+December 2011	17	0.29	–
+June 2012	16	0.43	2,593
+December 2012	14	0.57	3,529
+June 2013	11	0.87	3,547
+December 2013	8	1.12	5,883
+June 2014	7	1.55	5,681
+December 2014	5	2.17	6,334
+June 2015	5	2.09	6,590
+December 2015	5	2.31	7,981
+June 2016	6	1.72	4,995
+December 2016	6	1.68	3,747
+June 2017	6	1.98	4,448
+December 2017	5	1.61	4,184
+June 2018	5	1.81	4,509
+September 2018	5	1.89	4,487
+26 Data sources: SWIFT, People's Bank of China, various years.
+27 Note: The share of RMB (2.79%) surpassed that of JPY (2.76%) and was ranked fourth in August 2015. USD and Euro were ranked the first and the second, respectively, during this period.
+Table 21. Weights of the SDR basket currencies (1986–2016).
+
+Effective date	USD (%)	EUR (%)	DEM (%)	FRF (%)	RMB (%)	GBP (%)	JPY (%)
+1 January 1986	42	–	19	12	–	12	15
+1 January 1991	40	–	21	11	–	11	17
+1 January 1996	39	–	21	11	–	11	18
+1 January 2001	45	29	–	–	–	11	15
+1 January 2006	44	34	–	–	–	11	11
+1 January 2011	41.90	37.40	–	–	–	11.30	9.40
+1 October 2016	41.73	30.93	–	–	10.92	8.09	8.33
+28 Data source: The official website of the IMF.
+29 Note: Weights of the SDR basket currencies are evaluated every five years.
+Being included in the SDR basket with a relatively high share of 10.92% is a fundamental step in improving RMB's international influence as well as boosting market and exchange rate reforms in China. Nonetheless, it should be noted that the actual share of RMB as a reserve currency in the global market is far less than its share of 10.92% in the SDR basket, revealing the RMB's insufficient influence in the global market.
+
+Size and geographic distribution of the RMB offshore market
+The size and geographic distribution of a currency's offshore market are indicative of its international influence. The size of the RMB offshore market was very small until 2010, after which it grew rapidly to about 1.8–2.8 trillion RMB. A wide gap exists between the RMB offshore and onshore markets, with the former being about 2–5% of the latter. Moreover, offshore RMB deposits held by non-residents make up just about 1–1.5% of total offshore deposits worldwide. This is in stark contrast to the USD, whose offshore and onshore markets are about the same size, with offshore USD deposits making up a large proportion of global total offshore deposits. In addition, the geographic distribution of RMB offshore deposits is quite concentrated, mainly in the Hong Kong SAR, Chinese Taiwan and Singapore (Table 22).
+
+Table 22. Volume, geographic distribution, and forms of off-shore RMB (2013–2018, unit: 100 million RMB).
+
+Time	Offshore RMB deposits held by non-residents	Offshore RMB bonds and lending	RMB as Central Bank Reserves (size and share in global total reserves)
+Size and share in global total offshore deposits	Hong Kong SAR	Chinese Taiwan	Singapore	South Korea	London	Bond Outstanding Balance (CD exclusive)	Lending
+Size and share in total offshore RMB deposits
+March 2018	18,400 1.25%	5,543 30.12%	3,197 17.38%	1,390 7.55%	69 0.38%	784 4.26%	3,917	1,558 (China's Hong Kong & Taiwan)	144.95 billion USD 1.39%
+December 2017	18,900 1.21%	5,591 29.58%	3,223 16.92%	1,520 8.04%	74 0.39%	–	3,877	1,615 (China's Hong Kong & Taiwan)	122.8 billion USD 1.23%
+December 2016	17,700 1.09%	5,467 30.89%	3,112 16.47%	1,260 7.12%	–	–	4,825	3,000 (Hong Kong SAR only)	–
+December 2015	22,200 –	8,511 38.34%	3,182 14.33%	1,890 8.51%	–	–	5,400	3,000 (Hong Kong SAR only)	–
+December 2014	27,800 –	10,036 36.1%	3,022 10.87%	2,300 8.27%	–	–	4,816	1,800 (Hong Kong SAR only)	–0.1–0.3%
+Decemebr 2013	20,000 1.34%	–	–	–	–	–	2,700 (new issue in Hong Kong SAR)	5,000 (Globally)	–
+30 Data source: Offshore RMB Index (ORI) Report, Bank of China, 2014–2018.
+
+Volume of RMB swaps with other central banks
+At the early stage of the reform and opening-up, RMB swaps were insignificant in size and developed very slowly. After the 1997 Asian financial crisis, the People's Bank of China (PBOC) signed a series of bilateral swap agreements with other central banks in order to maintain stability in the financial market, under the guideline of the Chiang Mai Initiative, which was signed within the framework of 'ASEAN + three members'. After the breakout of the global financial crisis in 2008, PBOC was further engaged in bilateral swap agreements with several central banks in an attempt to avoid crisis contagion and promote RMB internationalisation. Starting from the swap agreement of 180 billion RMB/36 trillion KRW with the Bank of Korea on 12 December 2008, China has reached bilateral RMB swap agreements with over 40 countries with a total amount of 3.57 trillion RMB as of October 2018 (Figure 10). The volume of central bank swaps reflects to some extent the international influence and creditworthiness of the RMB. Central bank swaps facilitate mutual liquidity between China and its counterparts, promote bilateral trade and investment, and more importantly, cultivate a favourable environment for the RMB to be used as a means of denomination, payment, clearing, and store of value under the circumstance of partial convertibility. This is beneficial to the market reform of the RMB exchange rate mechanism.
+
+Graph: Figure 10. Total volume of RMB swap agreements: 2008–2018 (unit: 100 million RMB). Data source: Wind.
+
+Financial regulation mode in China
+The financial regulation mode in China has experienced different stages: from unified supervision, to separate supervision of different lines of financial business, and recently to the 'twin pillars' approach that can be understood as an upgrade of the separate supervision.
+
+A unified approach to financial regulation: 1983–1992
+Prior to 1983, lending operations, financial regulation, and central banking were all conducted by the PBOC. The central bank and commercial banks were not separated until 17 September 1983, when the State Council decided that the PBOC should only assume the duty of central banking, and stop issuing industrial and commercial loans and conducting deposits business. Shortly after that, the Industrial and Commercial Bank of China was established. Between 1983 and 1992, the formation of the capital market failed to bring a structural change in the financial system, and central planning remained. Consequently, the financial regulation in China followed a unified approach, where the PBOC was the single supervisor. A special office supervising the stock market was established as an affiliate of the financial supervision department of the PBOC.
+
+Separate supervision
+As the stock market grew, an independent supervisory institution, the China Securities Regulatory Commission (CSRC), was set up in October 1992, marking the beginning of a new era in financial regulation.
+
+Since then, the CSRC has played an active role in supervising the capital market. The supervisory model during the first few years was deeply influenced by the old central planning approach in terms of the initial public offering (IPO) procedures and market surveillance. The major features of the supervisory model at that time were planned quotas, quota limits, and subjective pricing. These remained in the stock market supervision until 2001, when a reform promoting merit regulation in the IPO system was launched. It should be noted that the establishment of the stock market has facilitated supervisory reforms.
+
+The insurance industry has also played a part in promoting supervisory reforms. In 1996, China Life was separated from the PICC, releasing a critical signal for supervisory reforms in the insurance industry. Later, on 18 November 1998, with the rapid development of and market reform in the insurance industry, the China Insurance Regulatory Commission (CIRC) was formed, taking away the PBOC's supervisory power over the insurance industry. The establishment of the CIRC further reinforced separate supervision.
+
+The banking industry was the principal part of China's financial system. Supervision of the banking industry nonetheless mingled with central banking as both duties were assumed by the PBOC until 2003. In this year, this dual responsibility was deemed as disadvantageous for the central bank to play an independent and unbiased role. Therefore, an independent supervisory institution overseeing the banking industry, the China Banking Regulatory Commission (CBRC), was established in April 2003. With the set-up of the CBRC, the separate supervision of different lines of financial business was finally established, where supervisory duties of the financial system were assumed by the central bank along with the three commissions: the CSRC, CIRC and CBRC.
+
+The 'twin pillar' approach to financial regulation
+The approach of separate supervision began with the appearance of the CSRC in 1992 and was fully implemented with the establishment of the CBRC in 2003. The integration of the CBRC and CIRC into the CBIRC (China Banking and Insurance Regulatory Commission) in March 2018 marks the beginning of the 'two pillars' approach.[ 2] This approach functions under two pillars: macro-prudential regulation overseen by the central bank, and micro-prudential regulation overseen by supervisory commissions. The central bank and the supervisory commissions each have their own specific focus, but at the same time, they are closely related.
+
+The core of macro-prudential regulation is to maintain financial stability. It pays special attention to risks across agents at a given time and risks across time of the whole system (Zhu [10]). Its major function is to avoid risk contagion and to alleviate pro-cyclical characteristics, which are inherent in the financial system, by taking countercyclical measures. In sum, the goal is to prevent systemic risks and financial crises. Notwithstanding the increasing importance accorded to macro-prudential regulation, micro-prudential regulation is still a fundamental part of financial regulation. Micro-prudential regulation, as the second pillar, focusses on the behaviours and risk appetites of individual financial institutions. In practice, micro-prudential regulation generally takes the form of compliance supervision. Its ultimate goal is consumer protection, whereby the interests of individuals participating in the market, such as investors and depositors, are protected.
+
+In short, macro-prudential regulation is concerned with how risks are transferred across agents in the macro system, while micro-prudential regulation is concerned with the risks of individual agents. Starting from March 2018, the PBOC has assumed duties of macro-prudential regulation, while the CBIRC and CSRC have assumed duties of micro-prudential regulation. Specifically, the CBIRC focusses on the indicators and sources of risks in financial institutions (mainly the banking industry), while the CSRC lays emphasis on market uncertainty and transparency. Logically, their differing focusses are rooted in the differing forms of risks in the financial system: institutional risk (capital inadequacy) and market risk (transparency). Maintaining the independence of the supervisor of market risk (transparency) is necessary, both in practice and in theory. It is an institutional guarantee for boosting financial reform, improving functions of finance, and preventing financial risks. Therefore, the institutional design of the 'twin pillar' approach is consistent with the financial logic in China.
+
+As a matter of fact, this approach can be seen as an upgrade of the separate supervision. Like the separate supervision, division of supervisory duties in the 'twin pillar' approach is still based on different lines of financial business. However, unlike the separate supervision, the macro-perspective in risk monitoring and management has been reinforced. Besides, a Financial Stability and Development Committee (FSDC) has recently been set up with the purpose of balancing and coordinating all aspects of the supervision of the financial system.
+
+The evolution of the financial regulation model mirrors the financial development and reform in China over the past 40 years. It shows not only substantial changes in the financial system but also substantial changes in regulatory ideas.
+
+The future of China's financial reform
+Over the past 40 years, since the reform and opening-up policy was introduced, the financial system in China has witnessed substantial changes in terms of size, structure, patterns, and functions. China is marching towards a modern financial system after a series of market reforms concerning resource allocation arrangements, risk diversification mechanisms, and financial regulation models. Prudent and exploratory steps to financial openness and internationalisation have also been taken. The financial system in China has completely transformed from being centrally planned to being market-oriented, thus laying a solid foundation for financial reform and development in the future. At this point, it seems imperative to consider what are the goals and strategies for the future development of China's financial system.
+
+China is one of the major economies in the world. It follows that China should develop a modern financial system that is consistent with its economic status, structure, and characteristics, which I term as 'large-economy finance'. Large-economy finance should be open, in which the market plays a primary role in resource allocation, wealth management and risk diversification. It is a modern financial system based on a developed market and the financial structure of a large economy.
+
+Notes
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+References
+1 Li, Shuo. 2010. " Jumin Jinrong Zichan Jiegou yu Jingji Zengzhang Guanlianxing Fenxi" [Relevance between the Structure of Resident-held Financial Assets and Economic Growth]. Xiaofei Daokan [Consumer Guide] 4 : 73 – 74.
+
+2 Wu, Xiaoqiu. 2014. " Zhongguo Jinrong de Shendu Biange yu Hulianwang Jinrong" [Deep Reformation of China Finance and Internet-based Finance]. Caimao Jingji [Finance & Trade Economics] 1 : 14 – 23.
+
+3 Wu, Xiaoqiu. 2015. Hulianwang Jinrong Gaige: Luoji yu Jiegou [Internet Finance: Logic and Structure]. Beijing : China Renmin University Press.
+
+4 Wu, Xiaoqiu. 2016. Gushi Weiji: Lishi yu Luoji [Stock Market Crisis: History and Logic]. Beijing : China Financial Publishing House.
+
+5 Wu, Xiaoqiu. 2018. Zhongguo Jinrong Jianguan Gaige: Xianshi Dongyin yu Lilun Luoji [Reform of Financial Regulation in China: The Realistic Motivation and Theoretical Logic]. Beijing : China Financial Publishing House.
+
+6 Wu, Xiaoqiu, Xiaohong Tao, and Tun Zhang. 2018. " Fazhan Zhongguo Zhaiquan Shichang Xuyao Zhongdian Sikao de Jige Wenti" [Important Issues concerning China's Bond Market Development]. Caimao Jingji [Finance & Trade Economics] 3 : 5 – 16.
+
+7 Xiao, Lisheng. 2017. " Huigu yu Zhanwang: Renminbi Huilv Xingcheng Jizhi Gaige" [Retrospect and Prospect: Reform on RMB Exchange Rate Formation Mechanism]. Zhongguo Zhengquan Bao [China Securities Journal], 16 January.
+
+8 Xie, Ping, and Chuanwei Zou. 2012. " Hulianwang Jinrong Moshi Yanjiu" [Investigation of the Internet-based Finance Mode]. Jinrong Yanjiu [Journal of Financial Research] 12 : 11 – 22.
+
+9 Zhong, Zhengsheng, and Lu Zhang. 2017. " Xiangjie Renminbi Huilv Nizhouqi Yinzi: Goucheng, Xiaoli yu Yingxiang" [Decomposing the Countercyclical Factor: Components, Effectiveness and Influences]. Caixin, 1 September.
+
+Zhu, Xiaochuan. 2010. " Hongguan Shenshen Jianguan de Guoji Qushi ji dui Woguo de Qishi" [Macro-prudential Supervision: International Trend and Its Implications for China]. Nanfang Jinrong [South China Finance] 3 : 35 – 37, 48.
+
+Footnotes
+The Shanghai Branch of China Everbright Bank issued the first financing product denominated in foreign currencies 'Sunshine Wealth Management Plan A' on 2 February 2004, and another financing product denominated in RMB 'Sunshine Wealth Management Plan B' in July that year, marking the beginning of the personal wealth management and investment business in China's banking industry.
+
+While it is widely called 'twin pillars', the two pillars are not yet strong enough given their actual effects and division of labour.
+
+~~~~~~~~
+
+By Xiaoqiu Wu
+
+Reported by Author

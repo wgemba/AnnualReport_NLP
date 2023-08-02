@@ -1,0 +1,336 @@
+﻿I argue for the role of trust and cooperation as part of the foundation of digital commerce by expanding the reach of the Integrative Social Contract Theory (ISCT) of Donaldson and Dunfee (Ties that Bind, 1999). I propose that a digital business community can be a community in the morally relevant ways that Donaldson and Dunfee describe, and that the basic framework of ISCT can apply to the digital business world similarly to its application in the offline business world. I then analyze the roles of trust and cooperation in e-commerce, showing how they are important to the digital business community and explaining their moral relevance under a digital form of ISCT. I use the ISCT framework to show that trust and cooperation are an instantiation of the hypernorm of necessary social efficiency, and that authentic microsocial norms developed for the ends of trust and cooperation carry moral responsibility.
+
+
+Keywords: Cooperation; Digital business ethics; e-Commerce; Integrative Social Contract Theory; Norms; Risk; Trust
+
+
+"Despite the long evolution path, the modern e-commerce still has to deal with such challenges as customers' distrust, doubt and perceived fear. But why do such barriers exist...? The answer is simple: no matter what digital revolution may bring, we are still human beings."
+
+
+-Vitaly Gonkov, blogger,[38]
+
+
+Introduction
+In this paper, I explore the moral responsibilities that accompany participation in digital business communities, groups formed for business purposes among people who interact online. These digital business communities include, for example, online markets and social networking communities used for business. People have a moral obligation to follow the norms that these communities develop, yet the exact contours of this obligation are often ambiguous. For example, are a digital business community's participants morally obligated to participate in a discussion in which they can be helpful to others? Expanding and applying Donaldson and Dunfee's ([22], [23]) Integrative Social Contract Theory leads to the conclusion that there is a normative imperative to follow digital communal norms promoting trust, trustworthiness, and cooperation. For the growing number of people participating in digital business communities, this work achieves two goals: ( 1) it helps understand and appreciate the importance of one's engagement in digital business communities, and ( 2) it provides a rubric for determining the moral boundaries of that engagement.
+
+
+To start with, I identify the need for an argument about trust in digital business communities. Then I look at whether the digital business community can be a community in the morally relevant ways that Donaldson and Dunfee describe. I conclude that a digital business community is a community in the ISCT sense, and therefore the basic framework of ISCT can apply to a digital business community.
+
+
+ISCT is a particularly helpful foundation for understanding moral behavior in digital business communities. Furthermore, the necessary social efficiency hypernorm can successfully be applied to digital business communities in a way that allows moral free space for digital communities to establish micronorms. While the normative obligation to generally promote trust, trustworthiness, and cooperation comes from the efficiency hypernorm, the obligation to abide by the specific micronorms supporting the efficiency hypernorm stems from the moral free space these communities have in developing these micronorms. I then illustrate how digital business communities develop micronorms of trust, trustworthiness, and cooperation and provide examples of these hypernorms in use. I conclude by addressing possible critiques of this argument, including a discussion of the authenticity of micronorms in digital business communities.
+
+
+Theory Development
+
+
+Ethics for the Digital Business Community
+
+
+The "Community" in Digital Business
+Online businesses require a new understanding of the user's moral responsibilities (Celebi [11]; Featherman and Hajli [29]; Koehn [57]; McGowan et al. [68]) and specifically need rules that contend with the interconnectedness, simplicity, speed, virtuality, and cost savings of conducting business on the internet (Kracher and Corritore [59]). The digital business environment also entails unique uncertainties, requiring a kind of trust that encourages people to accept vulnerability when in risky situations.
+
+
+This paper contributes to the existing literature on digital business ethics through a focus on the community aspect of digital business. These digital business communities include online markets, such as Amazon and eBay. They also include social networking communities used for business, like Facebook groups and Reddit threads used to share business information, network for business purposes, and buy and sell products and services. There are also digital business communities that combine social networking and online markets, such as Shopify's discussion forum, with dozens of sellers daily asking for and giving advice to each other about selling on Shopify's platform. These communities are enormously popular; a search of Facebook for groups of Amazon sellers results in approximately 100 groups that each have over a thousand members (some with tens of thousands) and countless smaller groups. The growth of digital business communities also allows people without a traditional "water cooler" experience to connect to others in a work environment, such as a on a Reddit page with nearly 35,000 subscribers whose purpose is to discuss the Mechanical Turk marketplace for work, and which can morph into a platform for people who mostly work on independent projects from home to connect with others (Reddit a).
+
+
+These digital business communities differ one from the other, and the people within each community are diverse. This creates an ethical environment encompassing varied cultural and moral perspectives, and therefore requiring a moral philosophy that can handle that diversity and the dynamic nature of digital business communities (Celebi [11]; Koehn [57]).
+
+
+Following a tradition of developing social contract theories to explain business ethics (Martin [67]; Neiman [71]; Robertson and Ross [83]; Strudler [96]; Wempe [103]), I expand Donaldson and Dunfee's ([22], [23]) theory to clarify normative imperatives of digital business communities. ISCT is a systematic approach to business ethics (Strudler [96]) that is a useful tool and a fitting framework for discussing ethics in digital business communities because of its flexibility to the diverse environments that the digital world represents.
+
+
+Risk: The Need for Trust, Trustworthiness, and Cooperation in a Digital Environment
+Using the ISCT framework, I look particularly at trust, trustworthiness, and cooperation. Although these concepts are relevant issues for any business environment, they are particularly important to digital business because of its increased risk (Featherman and Hajli [29]; Koehn [57]; Resnick et al. [81]). Here I rely on the definition of risk as an uncertainty associated with a significant loss (Yates and Stone [108]) that is well accepted in the literature addressing the relationship between risk and trust (Chiles and McMackin [13]) and is the kind of risk particularly seen in digital interactions.
+
+
+The "loss" in this context can take many forms; uncertainty in digital business communities can be financial (for example, if one does not receive compensation for an item sold online) or social (for example, if a participant is misled into posting an ostracizing comment on a networking group). The significance of the loss is personal to the individual perceiving the uncertainty, but if it is not at least somewhat significant for her, then she will not be concerned enough about the uncertainty to experience risk.
+
+
+Online participants cannot always identify each other and often do not have legal or social means to punish people who renege on their commitments. People conducting business online feel a lack of control and greater vulnerability because the parties are faceless and the transactions are paperless (Eckel and Wilson [26]; Yang et al. [107]). Additionally, communicating digitally changes the use of non-verbal cues and emotional expressions and limits social and contextual information (Erez et al. [28]; Gibson and Gibbs [36]), which can increase anxiety and insecurity about others' performance (Byron [ 9]). Furthermore, people involved in digital business often have to deal with unique logistical coordination problems, cultural diversity, different expectations for communication behaviors, and language differences. These factors often cause misunderstandings and divisiveness between individuals who are supposed to be working together, making it more difficult to form a cooperative group (Erez et al. [28]).
+
+
+For example, someone from a high-honor culture may expect to be addressed with formality, while those from other cultures may address that person by her first name. People may not understand sarcasm or jokes correctly, and instead become angry by another's comments. These types of misunderstandings can create distrust among community members (Gibson and Gibbs [36]). Furthermore, these factors may increase the risk of undesirable outcomes stemming from members not understanding each other or not working well together (Erez et al. [28]). These also make it harder to form a collective identity that promotes shared commitments to a common goal (Furst et al. [32]), making cooperation more difficult. These are primarily examples of what Das and Teng ([18]) term "relational risk"—the probability and consequences of parties not fulfilling their commitments. Das and Teng suggest that goodwill trust (similar to the trust I discuss below) can mitigate this kind of risk, making trust especially important in the risky digital environment.
+
+
+While some argue that trust and cooperation in digital relationships are simply extensions of traditional theories (Jarvenpaa and Leidner [53]), I argue that there are reasons to consider a different approach to digital interactions, particularly because of the increased relational risk online. High risk in digital communities makes trust especially and differently relevant (Gefen et al. [35]; Grabner-Kräuter [39]; Ryan and Buchholtz [87]). In particular, increased uncertainty means that greater trust is required in order to enable people to engage in digital business communities. Trust that mitigates digital risk can be developed using micronorms as part of a social contract, as outlined in ISCT.
+
+
+Applying ISCT to Digital Business Communities
+
+
+Contracting ISCT
+Donaldson and Dunfee's ISCT is a hypothetical social contract—an agreement about moral responsibilities in the business world—to which hypothetical contractors would agree. Like Rawls ([77]), Donaldson and Dunfee put their hypothetical contractors behind a veil of ignorance, obscuring who they are—where they fall socioeconomically and what their personal wealth is—but the hypothetical contractors do know their own economic and political preferences and the basic values to which they subscribe.
+
+
+The resulting contract—ISCT—includes general normative requirements for everyone, called hypernorms, which are consistent with precepts of major philosophies and with universal human values. At the same time, ISCT creates normative requirements for community members to abide by their own community's micronorms—community-specific norms that are consistent with the behavior and beliefs of most individuals in the group and reflect chosen values and preferences.
+
+
+Expanding the Moral Community to Digital Business Communities
+The first step in understanding whether ISCT provides a functional foundation for digital business communities is to determine that they are morally relevant communities. Donaldson and Dunfee discuss different types of groups that qualify in this manner:
+
+
+We previously defined a community as "a self-defined, self-circumscribed group of people who interact in the context of shared tasks, values, or goals and who are capable of establishing norms of ethical behavior for themselves" (Donaldson and Dunfee [22], p. 273).
+
+
+This open-ended definition is intended to allow for great variety in the way in which people form relationships capable of generating authentic ethical norms (Donaldson and Dunfee [23], p. 98).
+
+
+The relevant question for this paper is whether people in a digital business community are considered a community in this sense. There are two questions here: Are these people forming relationships, and are these relationships morally relevant in the sense that they are capable of generating authentic ethical norms?
+
+
+To answer the first question, anecdotal evidence indicates that people involved in online marketplaces form relationships, albeit technical relationships based on buying and selling. As I will discuss below, relationships are also developed between buyers and other buyers, who rely on each other. Relationships are similarly developed in social network groups, which allow members to articulate with whom they share a connection (Boyd and Ellison [ 7]).
+
+
+Can digital business communities generate authentic norms? Below I discuss three types of groups in this regard: ( 1) formal groups based on markets, ( 2) formal groups based on mutual participation, and ( 3) informal, transient groups.
+
+
+Formal Groups Based on Markets
+Fiske ([30]) outlines four models of community formation, of which two are particularly appropriate for our discussion: Market Pricing and Communal Sharing. In the Market Pricing model, people exchange goods as a function of market prices. Groups in which people interact digitally for the purpose of getting something from each other—online marketplaces, for example—fit this model.
+
+
+Empirical evidence demonstrates that these formal digital business communities are able to create norms for themselves. For online retailer Amazon, buyers and reviewers interact in the review process, and have established norms such as being specific and sincere (Dobrescu et al. [21]). The peer-to-peer online lodging marketplace Airbnb recently required anyone interested in booking through their site to agree to a "community commitment." In their e-mail to members, Airbnb wrote that it is launching this commitment initiative in an "effort to fight bias and discrimination in the Airbnb community." The particular norm that this initiative addresses is to "treat everyone...with respect, and without judgment or bias" (Airbnb [ 1]).
+
+
+Formal Groups Based on Mutual Participation or Membership
+The other category from Fiske's theory relevant to our discussion is Communal Sharing, where the "use of resources [is] regarded as a commons, without regard for how much any one person uses; everything belongs to all together" (Fiske [30], p. 694). According to Fiske, this type of thinking creates a sense of unity and solidarity among group members, very similar to the type of solidarity we see among groups whose bonds are based on mutual participation—for example, the social networking and news site Reddit. Many of these online groups require people to sign up for membership before posting, thus creating a distinct group. Others do not require membership, but create strong group connections which define their community. These two groups are very similar for our purposes, since even the groups requiring membership of some sort (for example, a closed Facebook group devoted to wood suppliers sharing trade information) require mutual participation to "interact in the context of shared tasks," as Donaldson and Dunfee discuss, and enjoy a sense of unity and solidarity, as Fiske discusses. Both of these groups also fulfill Windsor's ([105]) definition of "a voluntary membership organization" whose members provide whatever is needed to support the group. (For example, members provide helpful comments on an advice group, thereby supporting the needs of the group.) These groups involve uncertain situations, as the members can join and leave with relative ease, and there are often no repercussions for uncooperative behavior. Each of these groups is able to establish "norms of ethical behavior for themselves," thus qualifying as communities in the ISCT sense.
+
+
+Some examples of these types of communities are social networking groups. On the Reddit site, community members submit content in particular subject areas, called threads. Many of Reddit's threads have a stated ethic to give unbiased advice (Reddit, b). On a Facebook group geared towards networking female entrepreneurs, the administrators instruct users on group norms: "Paying it back—If someone has gone out of their way to help you, consider pming [private messaging] them and ask if it's appropriate to share one of their posts on your timeline" (Gluck [37]). There are countless other examples of online communities that are not only capable of establishing norms, but have actually defined norms of ethical behavior for themselves.
+
+
+Informal Groups
+In addition to formal online groups, there are many informal groups that have tacitly defined norms of ethical behavior. For example, on Craigslist (a classified advertisement website) a person can respond to posts about business without signing up as a user, and there are norms of ethical behavior that are discussed below. Donaldson and Dunfee explain that highly informal, even transient communities can develop authentic norms. People develop norms of mutual commitment, with a "common fate" identity emerging in their small, transient community (Donaldson and Dunfee [23], p. 99).
+
+
+The question that comes up when discussing informal communities is, what makes someone part of the community? There is not necessarily an objective standard, as someone can be technically part of a group but never participate, or can participate without technically joining. This is part of what makes such groups particularly risky and requiring high levels of trust in order to encourage cooperation.
+
+
+Whether the individual in an informal digital business community should be bound by the communal norms relies on her answer to a series of questions: Do I consider myself a member of this community? Do I share in the group's values or interact in the group's tasks? Alternatively, (modifying Phillips and Johnson-Cramer ([74]) principle of stakeholder management) do I accept the benefits from this community? People who answer "yes" to these questions could each hypothetically consent to the terms of a social contract similar to ISCT.
+
+
+In all of these categories of digital business communities, we see "evidence of continued stakeholder engagement in aspirational efforts to find and build cooperative relationships on common ground" (Calton [10]) providing a fitting platform for social contract theory building.
+
+
+Value of Applying ISCT to Digital Business Communities
+Above I show that ISCT can be used to explain normative requirements for participants in digital business communities. In this section I discuss why ISCT is particular helpful in this context. ISCT is useful to offline businesses because many global businesses function in different parts of the world and conduct business with people who have diverse moral and cultural viewpoints. ISCT is specifically designed to provide a framework for managers to answer questions in this ambiguous terrain (de los Reyes et al. [19]). For the same reason, ISCT applies to diverse digital life. We can appreciate the range of backgrounds and attitudes that interact in digital business communities, as an MBA-trained venture capitalist can buy a product from a high school dropout through a Facebook group. But more relevant to our discussion is the diversity in ethical beliefs and understanding of moral responsibility that is found on the internet (Erez et al. [28]; Kracher and Corritore [59]; Vardi [101]). Individuals collaborating digitally are working together, but they may have very different understandings of their ethical and moral responsibilities to that work, possibly stemming from their diversity in culture and education.
+
+
+Donaldson and Dunfee's solution for the moral dilemmas of the ethically diverse offline business world is a social contracts approach that takes into account both international moral sensibility and local micronorms. Like other social contracts, ISCT derives its authority from the assumption that people acting rationally would hypothetically consent to the terms of a contract affecting the community of which they are a member. Digital ISCT derives its authority from the same assumption: participants in a digital business community would—hypothetically—arrive at a social contract that includes hypernorms and micronorms.
+
+
+The two main distinctions to draw between the Integrative Social Contract and the Digital Integrative Social Contract are which specific micronorms are included, and how to define a community for the purposes of determining community micronorms. In a digital world, "business community" can include people who never meet, do not work for the same company, and are not geographically close, but who interact to form a group for business purposes.
+
+
+Just as Donaldson and Dunfee felt that "the ethical game in business is played by different rules...than it did decades ago" (Donaldson and Dunfee [23]), the last two decades since the publication of the original ISCT literature has seen its own upheaval in the way business is done, and with that, in the way the "ethical game" is played. Today many of our business interactions are conducted digitally. Many of the ethical challenges Donaldson and Dunfee describe as stemming from business being "almost entirely the product of human design" ([23], p. 14, emphasis added) make the entirely humanly designed digital world a moral minefield (Kracher and Corritore [59]; Laczniak and Murphy [61]; Lessig [63]; Maner [66]; Schmidt [89]; Spinello [93]; Tavani [97]). Since ISCT addresses many of the issues involved in understanding ethics in dynamic and multicultural environments (Wempe [103]), it is a useful framework for studying digital business communities.
+
+
+Trust, Trustworthiness, and Cooperation in Digital ISCT
+
+
+Necessary Social Efficiency in Digital Communities
+Since it is both accurate and advantageous to apply the ISCT framework to digital business communities, we can also apply some of the specific hypernorms from the ISCT literature to digital contexts. One structural hypernorm Donaldson and Dunfee develop is necessary social efficiency. They argue that if a good possesses "intrinsic worth for society," then it is a good that society must pursue. More efficient pursuit of necessary goods—enabling the pursuit of more necessary goods for more people—itself has intrinsic worth for society and is a moral good. Rational people (and "any society anywhere") want more fairness/justice and aggregative economic welfare so the pursuit of these is a moral good for members of society (Donaldson and Dunfee [23], p. 119).
+
+
+In addition to the general support for the hypernorm of necessary social efficiency given by Donaldson and Dunfee, we can also apply the normative component of this hypernorm specifically to digital business communities, assuming that members of those communities would agree to a social contract encouraging greater aggregate economic welfare. Those looking to sell and buy products in digital business communities, or who join communities because they seek business advice or are looking to network and market their services, are drawn to those communities precisely because they believe they will increase their own welfare, and leave those communities when they no longer do so efficiently. If these actors were under a veil of ignorance, it is reasonable to assume that they would continue to value economic welfare, which—since the contractors do not know whether they will be rich or poor, buyer or seller—translates into aggregate economic welfare.
+
+
+We can also assume that the digital contractors will be interested in efficiency—increased gain (aggregate economic welfare for the digital business community) with minimal costs (time, energy, and financial loss) to the individuals within a community and to the community itself. For example, many sellers recently left eBay because of its lack of efficiency (Ecommercebytes [27]).
+
+
+While it is plausible that digital social contractors would also agree to other hypernorms, the efficient pursuit of aggregate economic welfare is one that most clearly stands out as an observable intention of many digital business community participants, and is therefore a strong foundation for the rest of this discussion.
+
+
+Trust, Trustworthiness, and Cooperation for Social Efficiency
+Assuming as we are that the digital contractors are interested in the efficient pursuit of aggregate economic welfare, they need to support those hypernorms with collective solutions, and in particular adequate systems and frameworks (Donaldson and Dunfee [23]). The "efficiency strategies" that a particular society undertakes may consist of both formal rules and informal norms and habits. Many of these strategies become micronorms, meaning that they contain moral obligations for the societies that adopt them. The aim of efficiency-related micronorms is social efficiency—to bring that society to its greatest gain (e.g., aggregate economic welfare; longevity of the society) with minimal societal costs (including both aggregate costs to society's participants, and procedural or logistical costs the society needs in order to achieve its gains).
+
+
+One efficiency strategy that, because of the increased risk in digital environments, is particularly relevant to digital business communities is the development of trust micronorms. In this context, I rely on Rousseau et al. ([85]) definition of trust:
+
+
+Trust is a psychological state comprising the intention to accept vulnerability based upon positive expectations of the intentions or behavior of another. (Rousseau et al. [85], p. 395)
+
+
+This definition has been widely cited and has been heralded as the "converged upon" definition of trust in organizational behavior research. (See for example: Desmet et al. [20]; Dunn et al. [24]; Erez et al. [28]; Kim et al. [56]; Kramer and Lewicki [60]; Li and Tan [64]; Malhotra and Lumineau [65]; Mislin et al. [70]; Van Lange et al. [100].)
+
+
+This type of trust takes place in situations of uncertainty associated with loss which is particularly relevant to the high-risk digital business environment that I discuss in this paper. It allows us to focus our discussion of these risky situations on the trust in behaviors of participants in digital business communities, rather than on the platform itself. Rousseau et al.'s definition is also useful in this context because they deal with trust that is important for the type of cooperation that I discuss.
+
+
+Trustworthiness Enabling Trust
+Willingness to trust in digital business communities, similar to offline communities, is based on the perceived trustworthiness of others in the community (Greenwood and Van Buren [41]). I define trustworthiness as making oneself worthy of trust (Brenkert [ 8]). How is a participant in a digital business community supposed to know the quality of another and thereby be able to determine whether they are worthy of trust? This can only be done through actions which show that the party is worthy of trust. What kinds of actions show this? Those that show that the actor is taking responsibility for the repercussions of their behavior on the decisions of others (Bailey et al. [ 3]). These trustworthy actions enable others in the community to trust.
+
+
+Cooperation Resulting from Trust
+With this approach to trust, trustworthiness, and risk, we can think of trustworthiness as enabling trust and trust as enabling cooperative behavior in a risky environment (Gambetta [33]). In Hosmer's discussion of organizational theory and moral philosophy, he presents this idea as a general consensus in the literature regarding cooperation: "Trust is generally associated with willing, not forced, cooperation and with the benefits resulting from that cooperation" (Hosmer [51], p. 390).
+
+
+Cooperation that involves risk arising from cooperation failures, such as cooperation needed for many digital business transactions (Son et al. [92]), requires trust. If people do not trust that the other parties will also work towards the benefit of others involved in the transaction, they will not risk cooperating. This is particularly true in scenarios where cooperation is a big risk, such as financial or time contributions to digital communities, or buying and selling online, where trust plays a significant role (Grabner-Kräuter and Bitter [40]; Gulati et al. [43]). If an individual is concerned that the other parties will not contribute towards the group benefit (e.g., by taking time to answer other members' questions, leaving helpful reviews.), she will not cooperate in the effort. However if she trusts that the other parties will also contribute the finances and time they have pledged, then she will be more likely to cooperate as well. Therefore, I discuss cooperation in risky circumstances as a resulting behavior of the attitude of trust (Gulati and Sytch [42]; Gulati et al. [43]; Zaheer et al. [109]). Below I argue that these concepts of trust, trustworthiness, and cooperation are necessary to pursuit social efficiency.
+
+
+Digital Trust, Trustworthiness, and Cooperation-Building Micronorms
+
+
+Moral Free Space Allows for Micronorm Development
+Since trust, trustworthiness, and cooperation are especially important for the risky environment of digital business communities, these communities need to "develop ethical norms representing a collective viewpoint concerning right behavior," which Donaldson and Dunfee support as long as those norms fall within the moral free space left open by hypernorms (Donaldson and Dunfee [23], p. 83). These ethical micronorms can be expressed as formal rules or as unwritten, implicit agreements among groups of people. By creating room for micronorms, moral free space:
+
+
+( 1) enables organizations to deal with the opaqueness that results from bounded moral rationality, ( 2) allows communities to reflect (within important limits such as hypernorms) their own chosen values and preferences, ( 3) provides for variances reflecting a world of enormous diversity, and ( 4) allows communities to develop ethical norms enabling efficient achievement of core goals. (Donaldson and Dunfee [23], p. 86)
+
+
+Above I illustrated that digital micronorms of trust, trustworthiness, and cooperation are supported by the hypernorm of necessary social efficiency, as well as other moral considerations. This support allows moral free space in which digital communities can develop ethical micronorms that are bounded by hypernorms. Adopting Donaldson and Dunfee's list above to the digital context, I can claim that moral free space:
+
+
+Enables digital communities to appreciate specific ramifications of bounded moral rationality.
+Allows digital communities to determine what values are most important for their needs.
+Provides for variances reflecting an online world with enormous diversity.
+Allows digital communities to develop ethical micronorms which help them achieve their core goals.
+The specific practices that support trust, trustworthiness, and cooperation online fall into the category of micronorms created by this moral free space and support social efficiency. In the next section, I describe this process in more depth.
+
+
+Communities Develop Digital Trust, Trustworthiness, and Cooperation Micronorms
+Two cycles of trust, trustworthiness, and cooperation explain the importance of micronorms for digital business communities. Participants in a particular community become trustworthy so that other people will trust them (Gauthier [34]). When an individual knows that other people want to be trusted, and that they therefore will act with trustworthiness, it makes rational sense for the individual to trust them (Pettit [73]). This in turn encourages digital business community members to be more trustworthy so they will continue to be trusted. In this way, people become more trustworthy from being trusted. This idea appears in the Babylonian Talmud as well, which describes how the benefit a person receives from being publicly trusted (as a guarantor) creates his obligation to be trustworthy (Babylonian Talmud, Bava Batra 176b).
+
+
+The effectiveness of the first cycle of trust in promoting social welfare in digital business communities relies on a second cycle: trust, trustworthiness, and cooperation as communal micronorms. Given the risks in digital business communities described above, most people will not trust and cooperate without micronorms of trustworthiness and cooperation, and then they will not develop micronorms of trust, trustworthiness, and cooperation. The opposite cycle is true as well. If participants in a digital business community act in a way that is trustworthy and cooperate, others will feel that they can trust and that they should be trustworthy and cooperate as well (Hollis [48]; Pettit [73]). This encourages participants to trust, be trustworthy, and cooperate more, in part because they think it will make others in their community act more trustworthy and cooperative (Jones [54], [55]). This cycle leads to micronorms of trust, trustworthiness, and cooperation in digital business communities.
+
+
+Because trustworthiness in a community is a precursor for trust, the same micronorms are at the basis of both. Knowing that our activities in a digital business community are governed by trust micronorms, that we will quickly be able to decipher those micronorms, and that other participants in our digital business community will act in accordance with those micronorms (Becker [ 5]), people will follow those micronorms and be trusting, trustworthy, and cooperative. This enhances the individual's sense of security (Becker [ 5]) and encourages greater social welfare (Horsburgh [50]; Ims and Jakobsen [52]; Michalos [69]) (Fig. 1).
+
+
+Graph: Fig. 1 Cycle of trust micronorms
+
+
+Putnam ([76]) describes that aspects of social life (including norms of cooperation and trust) enable communities to act together more effectively in pursuing collective goals. Combining these theories we see that trustworthiness promotes trust; trust promotes cooperation; cooperation promotes greater social efficiency. This is supported by Cohen and Prusak ([15]) and Donaldson and Dunfee themselves ([23], p. 128).
+
+
+One problem that we run into when discussing online micronorms is that in online interactions the "normal" ways to build trust do not necessarily work (Celebi [11]; Koehn [57]; Featherman and Hajli [29]). Offline, people build trust with strangers by reading non-verbal signals (Eckel and Wilson [26]) or through an understanding of the social context (Cook and Cooper [16]). Thus, we expect that the digital context, with its different non-verbal signals and contexts, and increased uncertainty, will provide a different understanding and expectation of trust.
+
+
+Hardin ([44]) discusses a trust that comes not from strong relationships, but rather from other incentives, like sanctions that are built into a system. Many online systems do enforce such sanctions, as people in digital communities are publicly criticized for non-trusting behavior (Rost et al. [84]). This enforcement creates strong online trust micronorms (Rost et al. [84]).
+
+
+Another facilitator of online trust micronorms is an individual's history of participation in the community (Bews and Rossouw [ 6]). In some digital business communities, this is a strong indicator of trustworthiness, but the transient nature of many of these communities makes tracking history particularly difficult; individuals can come and go with different usernames, and many community members develop little history in the community. This difficulty is what makes micronorms that people behave in a trustworthy fashion (I will call them "micronorms of trustworthiness,") so critical in this space; they serve as a placeholder for a history of trustworthiness. Thus, digital business community members can trust each other based on the micronorm of trustworthiness in the community, despite not having a history of the individual actor.
+
+
+The development of cooperation is also different online and offline. The main issue in developing cooperation is people's ability to convince others that one is committed to the cooperation (Hardin [45]). In digital communities, we do not usually have the two models that Hardin describes for building cooperative micronorms—ongoing relationships with "those with whom we will inescapably be thrown into further dealings," (Hardin [45], p. 31) nor do we have controls of the law. Many people in digital communities are unlikely to interact with the same person more than once. Additionally, the way we normally think of something being "in my interest"—that is, in my financial interest or in my time interest—does not always give people a reason to fulfill their commitments to cooperation online. Instead we need strong micronorms of cooperation to give people the incentive to stay committed in digital communities.
+
+
+Trust, Trustworthy, and Cooperation Micronorms Encourage Efficient Pursuit of Economic Growth
+What we see above is that we need micronorms if we want to promote trust, trustworthiness, and cooperation in digital business communities. Earlier I discussed digital business community members' interest in supporting the hypernorm of necessary social efficiency. It follows that if trust, trustworthiness, and cooperation are needed to efficiently pursuit economic growth in digital business communities, then the individuals in those communities should be morally obligated to abide by the supporting micronorms. Below I describe this link between the micronorms and the efficient pursuit of economic growth.
+
+
+Trust, trustworthy, and cooperation micronorms can direct participants in digital business communities towards the common good (Michalos [69]) by encouraging pro-social behavior (Ims and Jakobsen [52]) and allowing people to efficiently achieve social objectives (Horsburgh [50]) such as greater efficiency in aggregate economic welfare. Adam Smith ([90]) raises this notion regarding offline cooperation in his iconic pin factory example. Ten individuals contribute to the production of pins, each person performing a different task in the manufacturing process. It is only because of their cooperation that they are able to create any pins at all. The same is true, Smith writes, of most of our goods which require "the assistance and cooperation of many thousands" (Smith [90], book 1, chap. 1). The same is also true of many benefits of online interactions that require the cooperation of thousands or millions.
+
+
+With a behavioral micronorm of cooperation, offline communities can provide more collective goods and experience higher group welfare (Hollander [47]). In social dilemmas, cooperation can often prevent individual rationality from leading to collective irrationality (Kollock [58]). Additionally, having generalized norms of cooperation encourages participation in social exchanges, and motivates people to contribute to knowledge exchange, making cooperative norms a "foundation of the creation of intellectual capital" (Lesser [62]; Putnam [75]). Micronorms of trust, trustworthiness, and cooperation in digital business communities have similar advantages as offline communities (contributing to greater efficiency in aggregate economic welfare (Grabner-Kräuter and Bitter [40]) in addition to minimizing risk, but manifest in different behaviors than offline micronorms (Grabner-Kräuter [39]; Koehn [57]; Roy et al. [86]).
+
+
+There are many examples of strong digital cooperative micronorms increasing aggregate economic welfare, both in digital business communities and in other digital communities. In open-source software, the source code is available for free, which allows users to change and distribute it. The software is developed collaboratively, with each user improving it for the good of the public. The micronorm among the users of open-source software is that an individual will fix a mistake or add useful content even if the personal payoff does not justify the cost in time and energy (Choi et al. [14]). This is partly because supporters know that others will do the same and overall they will benefit from useful software. This type of collaboration is only possible where there are strong micronorms of digital cooperation.
+
+
+The same is true for the online encyclopedia Wikipedia, which is written collaboratively "by the people who use it" (Wikipedia: Introduction). People are continuously changing Wikipedia, writing new entries and editing written ones. Wikipedia's site says that it is "a special type of website designed to make collaboration easy" (ibid.). As with open-source software, people contribute even if the individual benefit they receive from making these edits does not compensate them personally for their costs. This collaboration exists because people understand that there are strong micronorms of digital cooperation. Applying the advantages of micronorms to digital business communities will increase the advantages of social investments in physical and human capital (Cerreta [12]) leading to faster innovation (Putnam [75]) and greater economic growth (Whiteley [104]).
+
+
+We can also consider examples of digital cooperation encouraging fairness and justice in digital business communities. Online ratings increase the amount of quality information available about products, buyers, and sellers (Dobrescu et al. [21]), contributing to fairness in digital markets. These ratings also increase accountability, encouraging online sellers to accurately describe their products and buyers to pay on time and in full, lest they suffer negative ratings. This mechanism often acts in place of the courts to ensure justice for online purchasers and sellers. Although users are not required to rate the products they buy or their interactions with the buyers or sellers, many often do, contributing to the cooperative effort of increasing online justice and fairness.
+
+
+Online reviews also provide a good example of micronorms to be trustworthy. When people purchase products or services online, there is a risk that what they receive will not live up to their expectations. By developing a culture in which online reviews can be presumed trustworthy, digital communities circumvent much of this riskiness, promoting confidence in the value of the product or service and allowing people to rely on the reviews to purchase the most appropriate product for themselves. This contributes to the efficiency of the digital market and to aggregate economic welfare.
+
+
+Micronorms of trust also play a significant role in the development of digital business communities. Members rely on strong trust micronorms to facilitate their networking, much like non-business groups need trust to function as networks (Valenzuela et al. [99]). Relied-upon trust micronorms often substitute for formal governance mechanisms in digital social networks, and can exist even when there are no strong ties between the participants, allowing them to increase the number of people with whom they can connect through the network (Grabner-Kräuter and Bitter [40]). This implied trust in digital social networks can explain why many people are comfortable forming wide networks through Facebook, even if they would not do so offline (Steinfield et al. [94]; Valenzuela et al. [99]).
+
+
+Whether they are dealing with widening their networks, minimizing transaction costs, encouraging pro-social behavior, or increasing accountability, micronorms of trust, trustworthiness, and cooperation help digital communities grow their aggregate economic welfare and promote fairness. Therefore, under the rubric of ISCT, micronorms of trust, trustworthiness, and cooperation in digital business communities are legitimate, supporting the hypernorm of necessary social efficiency.
+
+
+Examples of Digital Business Communities Encouraging Trust, Trustworthiness, and Cooperation...
+Evidence of micronorms exists in many digital business communities. Some publish formal micronorms to support trust-building and cooperation within the community. For example, buyers and sellers on eBay (a consumer-to-consumer shopping website) are told not to misrepresent their identity or falsely report on another eBay member. These rules are formally part of eBay's Code of Business Conduct and Ethics, which states that "we believe that an honest, open environment can bring out the best in people" (eBay). Craigslist also prohibits misleading or deceptive content, as well as offensive or obscene postings (Craigslist).
+
+
+Informal digital micronorms also exist for these types of communities, though their informal nature makes them difficult to pinpoint. However, some anecdotal examples come to mind: Craig Newmark, the founder of Craigslist, pointed out that his site works not because of formal rules but because "there is a culture of trust on the site" created through informal rules (Pennace [72]). Reddit users developed a micronorm of authentically upvoting or downvoting items based on their interest level (On Reddit's social networking site, users post submissions and other users vote those submissions "up" or "down" which then affects the submission's placement on Reddit's page.). The authenticity of this voting system is entirely voluntary, but the results show a truthful reflection of what users find interesting. Ironically, Reddit formally defines their "Rediquette" as "an informal expression of the values of many redditors" (Reddit c).
+
+
+Each of these examples illustrates a different approach to micronorms that fit the style of the different communities. Communities that rely on formality in general, like eBay, are likely to have more formal micronorms. Communities that are generally informal, like Reddit, will have more informal micronorms. The important aspect of these examples is that each community develops micronorms that fit its needs for trust, trustworthiness, and cooperation, as well as its style of interaction (formal or informal.) This variety is supported by ISCT, and the individualized needs of different communities is one reason why ISCT is a useful tool for this discussion.
+
+
+Digital Business Communities can Develop Authentic Online Micronorms
+While we see above that digital business communities can develop micronorms, they only become authentic when "a substantial majority of the membership holds the attitude that a particular behavior is right (wrong) and a substantial majority act consistently with that attitude" (Donaldson and Dunfee [23], p. 102). We do not have data about whether digital micronorms encouraging trust, trustworthiness, and cooperation are believed to be right according to a substantial majority of a particular community, but we do have anecdotal evidence that people in the communities mentioned above tend to follow the micronorms, and thus create "a culture of trust."
+
+
+Adherence to micronorms in digital business communities may stem from what Fukuyama ([31]) terms "spontaneous sociability" that stems from high levels of intra-communal trust. This sociability explains people's willingness to participate in organizations outside of their families (Donaldson and Dunfee [23], p. 129) and can explain why people feel obligations towards online group micronorms, for example, why people write and trust online product reviews (Rhodes [82]).
+
+
+Another explanation for the strength of digital communal micronorms is that all social norms need to be enforced in order to be sustainable, and digital business communities give people power to communicate micronorm violations to large numbers of people, thus enforcing these micronorms (Rost et al. [84]). This results in strong micronorm development in digital business communities that would not be feasible offline, such as truthfulness in reviews and high levels of participation in collaborative activities. To understand this better, we need significantly more empirical research focused on uncovering and understanding how and why these micronorms are developed and followed.
+
+
+Micronorms of Trust, Trustworthiness, and Cooperation can be Legitimate
+An environment in which community members abide by micronorms is not enough to make them legitimate; for this they must not conflict with hypernorms. I already discussed how micronorms promoting trust, trustworthiness, and cooperation are an instantiation of the efficiency hypernorm. In addition, online trust, trustworthiness, and cooperation and the micronorms that support them do not necessarily conflict with what Donaldson and Dunfee refer to as "collective agreement" hypernorms—agreements reached by people from different communities about basic rights—such as the United Nations' Universal Declaration of Human Rights (Donaldson and Dunfee [23], p. 69). There are times when micronorms of trust, trustworthiness, and cooperation can be used for illegitimate purposes, such as the Silk Road's use of strong trusting online relationships to arrange for illegal drug sales and other nefarious ends (Ball [ 4]). In these circumstances, trusting micronorms would not be legitimate moral micronorms. Despite this, for many digital business communities, micronorms of trust, trustworthiness, and cooperation can be authentic, legitimate micronorms used to build efficiency and to work towards legitimate moral ends.
+
+
+Once these micronorms are developed, it is the individual's obligation to abide by them, because by joining the digital business community, they are agreeing to abide by the digital social contract, including the micronorms for the specific community.
+
+
+Discussion
+
+
+Implications for Theory
+
+
+Advantage of Using ISCT for Trust, Trustworthiness, and Cooperation in Digital Business Commu...
+One could argue that there is nothing novel about this argument, since there are many reasons people should (from a moral perspective) trust and be trustworthy and cooperative, both offline and online. Some philosophers describe the duty to trust and cooperate as part of a Kantian duty to act with beneficence and to protect the rights and interests of others (Hargreaves-Heap and Varoufakis [46]; Michalos [69]). Others describe a moral requirement to cooperate which stems from an explicit relationship between the parties and from the trustee's holding the autonomy of the trustor (Strudler [95]). Others view trustworthiness as a virtue, either in the Aristotelian sense of defining a good character (Horsburgh [49]; Solomon [91]) or as an attribute with intrinsic value, like courage (Brenkert [ 8]). What these views lack is an inclusion of the micronorms supporting trust, trustworthiness, and cooperation. One could argue using these theories that such micronorms are important because their underlying motivations (trust, trustworthiness, and cooperation) are important. But digital ISCT gives a more direct route to understanding the normative imperative to follow the micronorms themselves, not just the fundamental values.
+
+
+One of the thinkers about offline trust who comes closest to a moral imperative for online trust is Uslaner ([98]) who describes the importance of trusting strangers as "accepting them into our 'moral community.'" He discusses how even with strangers, people share their underlying values and accept that they have common bonds based on human nature that make cooperation necessary. This "moralistic trust" and cooperation come from the notion that everyone is connected to each other. This theory applies well to digital environments, as this connection, according to Uslaner, exists for all people, online or in-person.
+
+
+While the idea of expanding the moral community to include strangers seems to be in the same vein of the digital ISCT I discussed, it does not carry the normative implications that ISCT has for trust with a direct object. By emphasizing trusting as a generalized notion, as opposed to trust directed at a specific person or organization, Uslaner has to rely on a "an optimistic view of the world," and a "leap of faith" that most people share a common set of moral values. Using digital ISCT, however, we can envision a normative imperative to abide by trusting micronorms, regardless of the individual's view of the world. Additionally, Uslaner's argument is that feeling trust generally is important, whereas with digital ISCT I conclude that digital business community participants have a requirement to act in a trustworthy manner in any particular interaction.
+
+
+Value of a Social Contract without Physical Commitment
+One weakness in the application of ISCT to digital contexts may be the lack of commitment to a digital community. If the premise of ISCT is that the strength of the community can enforce micronorms, then how can these micronorms be of serious consequence if an individual can easily enter or leave the digital community?
+
+
+Firstly, the freedom to exit a community is considered imperative in the original ISCT work (Donaldson and Dunfee [23]). In order for micronorms to be authentic and to successfully create a framework for decision-making, participation in the community must be voluntary. Therefore, the freedom to exit found in most digital business communities provides a particularly fitting place to explore ISCT. While offline communities may be difficult to exit (Windsor [105]), most digital business communities afford participants flexibility to leave the community and its norms, ensuring the authenticity of digital business communities' micronorms.
+
+
+There remains a question, however, that is at the heart of the debate around digital ethics: how can people be expected to act ethically in a world of anonymity and flexibility? Here we need to differentiate between the concepts of freedom to exit and commitment. Although it is technically easy to stop participating in most online communities, and thus there is freedom of exit, we need to consider the emotional and social needs of the individual when we consider the ease with which someone leaves or enters a community. It can be incredibly emotionally difficult for people to leave digital communities that they have committed to. Anecdotally we see people taking great strides to support their positions in digital communities—from heated debates in online discussion groups to buyers and sellers protecting their interests in online marketplaces. In many situations, online communities fulfill individuals' need for interpersonal contact (Wellman et al. [102]). Rost et al. ([84]) discuss the intrinsic motivation people have to maintain their non-anonymous personas in social media communities. This indicates that people have a hard time leaving these communities, and that they view the investment of time and energy into the community as a serious commitment. If we believe that participants value their commitments to digital business communities, then the concept of a social contract for these digital communities has great importance for their moral lives.
+
+
+Digital Context Minimizes Significance of Some Critiques of Original ISCT Work
+
+
+Implied consent
+Since the publication of the original ISCT literature, there have been many critiques of the theory which this digital version begins to address. For example, Windsor ([105]) questions the validity of the assumption in ISCT that participants in a community can easily exit. However, most of the digital business communities I defined above allow individuals to leave freely, even if they may not want to; thus I can assume implied consent among their members.
+
+
+Community Dialogues
+Calton ([10]) sees the outcomes of moral free space, specifically cooperation and trust, as "dynamic and hence unstable," and suggests a more pluralistic approach to defining the social contract. In response, Calton calls for community dialogues about how to develop frameworks for developing micronorms. The nature of digital business communities is that they are themselves community dialogues, constantly changing not only their micronorms, but the way those micronorms are introduced and established. A social media group started by a few friends, with undefined but understood micronorms, might morph into a group for 2000 people, requiring more structured and clearly stated micronorms. The pluralistic nature of many digital business communities provides the "conditions of value conflict and dynamic pressures" Calton describes as being critical for unleashing "the full reflective potential of a social contracting theory of business ethics." And it is exactly this pluralism and dynamism that makes defining and constraining the procedures by which micronorms are created nearly impossible.
+
+
+Infinite Regress
+By moving the focus of ISCT away from the process of constructing the micronorms, digital ISCT also starts to minimize the relevance of infinite regress. Philips and Johnson-Cramer ([74]) as well as Scherer ([88]) address the problem that a micronorm can only become authentic if members act consistently with that micronorm, but if it is not authentic, how can a moral actor act consistently with it? If we are less concerned with the process by which micronorms are created or defined, but rather with the fact that authentic micronorms exist in digital business communities, then this problem also loses significance. Digital ISCT does not actually provide the answers to Calton's concern or to the problem of infinite regress, but makes these issues less relevant to understanding the obligation to follow micronorms. Trust, trustworthiness, and cooperation micronorms exist in many digital business communities; regardless of how they got there, they are now micronorms that both exist and support the hypernorm of social efficiency.
+
+
+Summary
+Kracher and Corritore ([59]) argue that the burgeoning field of digital business ethics needs research on trust as a value in digital business. Answering their call, I show that the individual is morally responsible to follow authentic micronorms of trust, trustworthiness, and cooperation developed in digital business communities. I approached this conclusion by using ISCT as a basis for understanding moral responsibility in digital business communities. As part of this discussion, I expanded the reach of Donaldson and Dunfee's concept of community to include digital communities of people who conduct business-related communication and activities together. I then used the ISCT framework to show that trust, trustworthiness, and cooperation are important to allow for digital business communities' efficient pursuit of aggregate economic welfare. And these are nearly unattainable without strong micronorms supporting them. Therefore, trust, trustworthy, and cooperation micronorms are instantiations of the efficiency hypernorm Donaldson and Dunfee describe and imply moral obligations to abide by these micronorms.
+
+
+With this paper I aim to contribute to the discussion of digital business ethics by analyzing what makes the digital world unique from many other business environments—increased risk—and showing that this risk does not detract from individuals' ethical responsibilities online. Instead, individuals participating in digital business communities have a responsibility to follow trust, trustworthiness, and cooperation micronorms developed by those communities. Through this discussion I also defend the expansion of ISCT, among other things, presenting the importance of social contracts without physical commitment.
+
+
+Future Research
+To fully understand and appreciate the individuals' responsibilities in this matter, and to uncover the importance and nature of digital micronorms, we need empirical research on the causes and effects of digital trust, trustworthiness, and cooperation and on the micronorms developed by digital business communities. Empirical research can test whether members in these communities recognize the implicit social contract (in the way that Robertson and Ross ([83]) did for sales communities). Research can also elucidate what micronorms digital business communities develop, how and why they affect trust, trustworthiness, and cooperation, and how to encourage the development of efficient digital micronorms.
+
+
+This paper does not even begin to explore the psychological advantages of relationships in these contexts, but they are certainly a part of aggregate economic welfare. I hope that future researchers will explore not just the financial gains that the global digital world profits from digital business communities, but also the emotional and psychological benefits of digital business community participation. I also do not discuss whether an individual or community leader has an obligation to aid in formation of these micronorms, and I see this as an area for future research.
+
+
+Implications for Research
+Throughout this paper I highlight the importance of the communal aspect of digital business for moral actors, as a way to develop trust, trustworthiness, and cooperation, and as part of building an efficient and collaborative digital environment. Because most of the research conducted into online behavior comes from marketing departments, it largely views digital actors as individuals, attempting to target attributes of each specific person for advanced marketing techniques. However, the business ethics community does not need to fall into this marketing research trap. As researchers concerned not with buying behavior but with moral behavior, we do not need to pinpoint how each person will behave when targeted individually. Instead we can consider the digital world as a hotbed for communal development, and delve into the moral implications of those communities and their norms. As business ethics researchers, we need to discover the realities of digital communal life and help its participants realize its potential for efficient growth and for ethical behavior.
+
+
+Implications for Business
+Ethically navigating the contemporary business world is difficult, and the goal of this paper is to show how ISCT can be a helpful rubric. The digital business person can rely on the tenacity of hypernorms and utilize the framework of micronorms to help make decisions. I hope that by showing the usefulness of ISCT I have convinced the reader that digital business is not actually a "moral minefield" but rather a garden requiring attention and upkeep. There are tools for helping make ethical decisions online, such as ISCT, and the moral digital actor is not alone in wanting to use these tools to encourage ethical online behavior.
+
+
+This raises the most important implication of this paper for the individual: to emphasize the importance of her participation in digital business communities. Being part of these communities and contributing to them in a trusting and trustworthy manner encourages their members towards cooperative behavior, enabling efficient growth
