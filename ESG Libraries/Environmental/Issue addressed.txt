@@ -1,0 +1,264 @@
+Issue addressed: Globally and locally, environmental degradation (including climate change) and inequity pose major risks to health. While health promoters recognise the importance of both issues, they may be seen as separate agendas. This study investigated health promotion addressing both issues together. Methods: The study was an investigation of health promotion practice addressing environmental sustainability and equity, conducted in 2013, as part of a community?based participatory action research project with three Primary Care Partnerships (PCPs) in Victoria, Australia, during 2009?2016. Results: Thirty?two local health promotion projects addressing both environmental sustainability and equity were identified. Analysis showed clusters of environmental, equity and health themes, particularly around: (a) caring for local environment, food, access to nature and Indigenous participation; (b) sustainability of housing, thermal comfort and reducing energy costs; and (c) sustainable and active transport. The study also found a marked decline in the number of PCPs in Victoria identifying environmental sustainability as a priority in 2013, compared to 2009. Analysis of helpful factors and challenges to practice identified by research participants, suggests interrelated political, organisational and discursive factors contributed to this decline. Conclusions: The study suggests local health promotion can contribute to the development of societies that are more ecologically sustainable and more equitable. However, the challenges suggest broader advocacy is required to support local action. So what?: Environmental degradation and inequity are major threats to human and ecosystem health. This study shows local health promotion can address both issues concurrently, and provides important information about challenges to this work.
+
+Keywords: climate change; ecology; environment; health equity; health promotion
+
+INTRODUCTION
+Bunjil taught the Boon Wurrung to always welcome guests, but he always required the Boon Wurrung to ask all visitors to make two promises: to obey the laws of Bunjil and not to harm the children or the land of Bunjil
+
+Carolyn Briggs, Boon Wurrung Arweet (Elder), Wominjeka (Welcome to Country), Inner South East Partnership in Community and Health Forum, St Kilda Town Hall, 22 February 2012
+
+Environmental degradation and inequity are major threats to human and ecosystem health.[[ 1]] The Boon Wurrung people, custodians of the land where this study began, warn against causing harm to land and people, particularly future generations, via ideas such as those above. However, dominant social systems of the modern historical era are causing harm.[[ 3], [ 5]] Global warming is now estimated to be 1°C above pre?industrial levels and will exceed 1.5°C by midcentury on current trends.[ 6] Environmental damage has already exceeded critical levels on indicators such as biodiversity and the nitrogen cycle.[[ 7]] Simultaneously, the world's financial wealth, and associated power, is becoming concentrated in the hands of fewer people.[[ 9], [11]]
+
+There have been calls for an integrated health promotion approach to address environmental sustainability and equity together. Baum and Fisher suggest the work of the Commission on the Social Determinants of Health (CSDH), on health equity, can be extended to address both "health equity and sustainability".[12](p 311) The World Health Organisation (WHO) produced a technical paper identifying potential cobenefits to health equity from climate change mitigation.[13] However, there still appears to be uncertainty in the health and environmental sectors about whether both issues can be addressed together in practice, or whether they form competing agendas.[[14]] Both are recognised as complex or "wicked" problems.[16](p 83) Van Beurden and Kia,[16] in the special climate change edition of this journal in 2011, called for action learning and complex systems approaches to address such issues. The study reported here used community?based participatory action research to investigate health promotion practice addressing both environmental sustainability and equity.
+
+DEFINITIONS
+Definitions of key terms in this report are shown below. These are praxis?based definitions, refined during research, and are offered as working definitions for development of health promotion theory rather than as final definitions.
+
+Health promotion in this discussion means theory or practice aiming to promote health through addressing social and environmental determinants of health. This is adapted from the WHO definition of health promotion in 2015.[17] Health promotion in this sense may address individual behaviour, but not individual behaviour alone (see, for example, the distinction made by Kickbusch[18] between "health education" and "health promotion").
+
+Health promotion addressing environmental sustainability in this discussion means health promotion aiming to promote human health and well?being, while also promoting, or at least protecting, the health of other species and ecosystems. Environmental sustainability is defined here as meeting the needs of current and future human generations without compromising the health of other species and ecosystems. This definition is adapted from Morelli.[19] For further discussion see also Patrick et al[20]
+
+Health promotion addressing equity in this discussion means health promotion aiming to reduce social and health inequities by addressing the inequitable distribution of power, money and resources. This is based on definitions of health inequities and the determinants of health inequities by the CSDH.[ 2]
+
+METHOD
+The study was a community?based participatory action research project in three Primary Care Partnerships in Victoria, Australia. Primary Care Partnerships (PCPs) are alliances of local health and community services, usually covering several municipalities.[21]
+
+As participatory action research, this study is part of a continuing and reflexive process with two aims: to improve practice, and to develop theory. This report relates to practice (separate reports relating to health promotion theory are in progress). The over?arching action research question regarding practice is: can health promoters and community members integrate a focus on both environmental sustainability and equity into our health promotion and community development[ 1] practice? (Participants in the action research included health promoters and members of local community groups, as discussed further below).
+
+The study utilised multiple qualitative methods. The major method was community?based participatory action research (CBPAR).[[22], [24]] The research included other methods that were part of the CBPAR approach, but can be described as distinct methodologies, including case studies,[26](pp 39?54) observation[27] and reflection.[28] Methods of analysis included thematic, content, discourse and historical analysis.[[29], [31]]
+
+The full study had three stages, following the action research cycle[32] of (a) planning, (b) action and observation and (c) reflection (see Figure). In the first stage, during 2009?2012, participants in an inner metropolitan PCP, the Inner South East Partnership in Community and Health (ISEPICH),[[33]] developed a draft framework for promoting health, equity and environmental sustainability. In the second stage, in 2012?2014, the participant?researcher (lead author) investigated practice in promoting health, equity and environmental sustainability with research participants in ISEPICH and two regional PCPs, Southern Grampians and Glenelg PCP (SGGPCP),[[35]] and Wimmera PCP.[[37]] In the third stage, 2014?2017, participants reflected on findings and explored implications, including implications for health promotion frameworks.
+
+hpja281-fig-0001.jpgAction research cycle, based on Lewin (1958)
+
+This report presents findings from stage two, the action and observation stage. Findings from other stages will be presented in subsequent reports. Major research questions in stage two were:
+
+In practice, what have participants in the three PCPs done to promote equity, environmental sustainability and health?
+What are the factors that have helped or challenged them in this work?
+The second question was originally phrased as being about "barriers and enablers", which is common health promotion terminology.[[39]] This was altered early in stage two. Participants did not respond well to the language of "barriers", in particular. The context of the question was a discussion of work they had done or were doing. Therefore, it made more sense to talk about challenges than about barriers, which would have implied the work had not been done. The terminology of "factors that help or challenge" appears more compatible with a focus on practice than "barriers and enablers." The terminology of "barriers and enablers", particularly "perceived barriers" is often associated with a focus on individual human actors who are deterred from behaving in a health?promoting way.[40] Recent literature recognises that barriers and enablers can operate at organisational and societal levels, as well as individual level.[[41], [43]] The focus, however, still appears to be on human intention. Theories of social practices, however, conceptualise practice as a complex field of multiple interacting practices, comprising both human and nonhuman elements.[[44], [46]] The terminology of "factors that helped or challenged" can encompass a wide range of human and nonhuman elements, and interacting or competing practices, which influence health promotion practice, as well as enabling or preventing it. It thus appears compatible with understanding practice as a complex field.
+
+Research participants in stage two included 21 staff members employed in local health and community service organisations, and nine community members, who were members (and frequently office?bearers) of community groups with particular interest in equity or environmental sustainability. Staff members were mainly members of health promotion committees, or related groups or networks, in the PCPs. Recruitment in ISEPICH was by invitation to relevant staff members through member agencies of ISEPICH. In practice, all participants recruited were members of health promotion groups or networks. Recruitment in the other two PCPs was by direct invitation, via PCP staff, to members of relevant groups or networks.
+
+Community members included people with experience of inequity or disadvantage, including Indigenous Elders, people who had experienced homelessness, and people from culturally and linguistically diverse backgrounds. All community members participating came from the ISEPICH area, as it was not feasible in practice to recruit community members in the other PCPs. A larger group of people, from PCPs, related organisations and the general public, provided contextual information through participation in forums, by email, or through comments on a publicly accessible project blog.
+
+Interviews and discussion groups in stage two took place in 2013. "Discussion groups", as used here, include: (a) group interviews (the first stage of group discussion, where individual participants were asked in turn to describe what they had done); (b) focus groups of mixed participants (two discussion groups in ISEPICH included both staff members and community members); and (c) focus groups of similar participants (staff members from health promotion groups and networks). Six staff members and nine community members from ISEPICH participated. Eight staff members from SGGPCP participated, one as key informant in an interview and eight (the key informant and seven others) in a group discussion. SGGPCP also gave permission for the use of de?identified notes of another meeting where the research questions were discussed. Seven staff members from Wimmera PCP participated, one as key informant in an interview, and six in a discussion group. Key informants from SGGPCP and Wimmera PCP were interviewed early in stage two because these PCPs joined the project at this stage. Interviews and discussion groups were conducted by the lead author and were recorded and transcribed.
+
+Following early findings from analysis in stage two, the lead author conducted a thematic and content analysis of all Victorian PCP Strategic Plans for 2009?2012 and 2013?2017, using documentary analysis, supported by consultation with PCPs for validation of findings. The aim was to see how many PCPs were addressing environmental sustainability and equity as strategic priorities and whether there had been any change during the study period (2009?2013 at that time).
+
+Published documentary evidence from project reports, PCP plans and other documents (largely from PCP or agency websites) was also used in compiling a list of projects. Additional published documentary evidence, including government policies and media reports, was used in discourse analysis. Evidence was analysed using thematic and critical discourse analysis.[[29], [47]](pp 73?74). Content analysis was used to identify any apparent differences between PCPs, or between staff members and community members, and in analysing PCP plans.
+
+Ethics approval for the project was given by the Monash University Human Research Ethics Committee (CF11/0411 – 2011000154) and The Alfred Ethics Committee (402/11).
+
+RESULTS
+From information provided by participants, 32 projects with potential benefits for environmental sustainability, equity and health were identified. Benefits are considered "potential", because this study did not attempt to evaluate impacts or outcomes. An illustrative selection of projects is shown in Table below. (A full list is available in Kay 2018.[47](pp 140?145) The term "project" includes a range of actions, for example from a planned forum by one community group (project nine) to a large project involving numerous agencies and local residents (project 15). To provide context, it should be noted that an additional 45 projects addressing equity, but not environmental sustainability, were also identified, although they are not analysed in this report.
+
+Examples of projects addressing environmental sustainability and equity
+
+No.	Brief description of project	Potential benefits for Environmental Sustainability	Potential benefits for Equity	PCP area
+3	Community garden at public housing estate, led by partnership of agencies and community members	Increase environmental sustainability of food system.Care for natural environment.	Benefits for low income/disadvantaged groups – increase access to local fresh food/healthy eating /food security, and contact with nature.Social inclusion/build community in the estate, including Indigenous participation.	ISEPICH
+6	Equity principles in environmental community group	Overall aim of group is to increase environmental sustainability.	Through equity policy, group aims to increase social inclusion.	ISEPICH
+9	Ethnic senior citizens' community group plan to invite Council environmental officer to address group re reducing household energy use	Increase environmental sustainability of housing.	Benefits for low income/disadvantaged groups – reduce living costs for energy and improve housing comfort.	ISEPICH
+12	Community Kitchen on public housing estate, led by partnership of agency, volunteers, residents	Increase environmental sustainability of food system through reduced food waste, including using food from Second Bite food rescue and redistribution service and reduction of energy use associated with food preparation (communal kitchen).	Benefits for low income/disadvantaged groups – increase access to fresh food/healthy eating/food security; reduce energy cost.Social inclusion/build community.	ISEPICH
+15	"Pass the Parcel" – housing sustainability/climate change adaptation, focus on low income, disadvantaged groups	Increase environmental sustainability of housing.	Benefits for low income/disadvantaged groups – reduce living costs for energy and increase housing comfort.Social inclusion/build community.	SGGPCP
+18	Community kitchen and community orchard	Increase environmental sustainability of food system. Care for natural environment.	Benefits for low income/disadvantaged groups – increase access to local fresh food/healthy eating/food security and contact with nature. Social inclusion/build community.	SGGPCP
+21	Glenelg SAVES – energy efficiency training for Home and Community Care workers and clients, and community workshops	Increase environmental sustainability of housing.	Benefits for low income/disadvantaged groups – reduce living costs for energy, increase housing comfort.	SGGPCP
+24	Point of contact for distribution of energy efficient globes, draft stoppers and similar, to public housing tenants	Increase environmental sustainability of housing.	Benefits for low income/disadvantaged groups – reduce living costs for energy, increase housing comfort.	SGGPCP
+27	Bicycle recycle – repairing bikes for community, in partnership with organisations including Aboriginal community controlled organisation	Increase environmental sustainability of transport.	Benefits for low income/disadvantaged groups – reduce living costs for transport, increase active transport/physical activity; Indigenous participation.Social inclusion/build community.	SGGPCP
+30	"Good Tucker, Good Health" nutrition and gardening project in school – includes focus on Indigenous plants and involvement of Indigenous families	Care for natural environment, including through indigenous plant use.Indigenous knowledge of country. Increase environmental sustainability of food system.	Benefits for low income/disadvantaged groups – increase access to local fresh food/healthy eating/food security, contact with nature; Indigenous participation and cultural awareness/safety.Social inclusion/build community.	Wimmera PCP
+Thematic analysis was used to identify key themes in relation to potential benefits for environmental sustainability, equity and health from the projects and content analysis to identify the frequency of themes. Table below shows the frequency of key themes, from analysis of all 32 projects. Equity and health benefits are considered together, because they were closely related.
+
+Frequency of environmental sustainability, equity and health themes in projects
+
+ 	Count
+Potential benefits for environmental sustainability
+Care for natural environment	15
+Increase Environmental Sustainability of food system	10
+Increase Environmental Sustainability of housing/homes	9
+Increase Environmental Sustainability of transport system	5
+Indigenous knowledge of country	2
+Increase Environmental Sustainability of community centres	2
+Education and awareness?raising re climate change	2
+Environmental Sustainability in general	2
+Recycling	1
+Potential benefits for equity and health
+Benefits for low income/disadvantaged groups, through:	32
+Increased contact with nature
+
+(12)
+Increased access to fresh food (often locally grown), healthy eating, food security
+
+(9)
+Reduced energy costs and increased housing thermal comfort
+
+(9)
+Reduced transport costs
+
+(5)
+Increased awareness of Indigenous culture/ Indigenous cultural safety
+
+(4)
+Increased capacity in mainstream services or community to recognise the impact of environmental degradation/climate change on vulnerable groups
+
+(4)
+Increased access to services, shopping or health care
+
+(3)
+Increased physical activity and active transport
+
+(3)
+Reduced costs for water
+
+(2)
+Social inclusion/community building	22
+Indigenous participation	5
+Analysis of projects addressing common environmental themes, showed three main clusters of projects, around themes of:
+
+Caring for local environment, environmental sustainability of the food system, and Indigenous knowledge of country. This cluster linked with equity and health themes of healthy eating, food security and access to nature, particularly for low income and disadvantaged groups, and with Indigenous participation and cultural safety.
+Environmental sustainability of housing, and other buildings. This cluster linked with equity and health themes of increased thermal comfort and reduced energy costs, particularly for low income and disadvantaged groups.
+Environmental sustainability of transport. This cluster linked with improved access to services, reduced transport costs and increased physical activity, particularly for low income and disadvantaged groups.
+All environmental themes had links with equity and health themes of promoting social inclusion or building community, as these were apparent in most projects (22 of 32).
+
+The clusters are shown graphically in Figure below. There were some links between the first two clusters, but the cluster of projects around transport seemed to have relatively few links with other environmental themes. This suggests that there was potential for closer integration of transport related projects in place?based health promotion.
+
+hpja281-fig-0002.jpgClusters of projects around environmental sustainability themes, and links with equity and health themes (Figures in brackets are numbers of projects, totals are greater than 32 because projects could address more than one theme)
+
+Participants reflected on factors that helped or challenged them in this work. Before considering these reflections, it is relevant to consider the political context. The context of this research is one in which political support for health promotion addressing environmental sustainability was declining. At the beginning of the full study, in 2009, there were Labor governments in Victoria and at federal level in Australia. Both encouraged the public health sector to engage with climate change. In 2010, a Liberal National Coalition (LNC) government was elected in Victoria, and reduced the emphasis on climate change. At the federal level, in 2013 the Labor government's climate change policies were subjected to aggressive political attacks by the opposition, and its popularity was low. It was replaced by an LNC government following the federal election in September 2013.
+
+The lead?up to the federal election was an uncertain time for health promotion, and the election of the LNC government led to major cuts to health promotion programs in 2014.[48] The national debate over climate change, however, was particularly divisive.[49] One research participant, Mel[ 2] (staff member) commented:
+
+... I would say the largest challenge to all of this [health promotion addressing equity and environmental sustainability] is the – the way that climate change has been politicised so – people are too scared to even talk about [it].
+
+Analysis of all Victorian PCP Strategic Plans for 2009?2012 and 2013?2017, conducted in late 2013 as part of this study, showed that environmental sustainability (including climate change) as a priority declined markedly during this time, while equity (including health inequalities or social inclusion) as a priority remained at a similar level, as shown in Table below.
+
+PCP plans identifying environmental sustainability (including climate change) and equity (including health inequalities or social inclusion) as priorities
+
+ 	Environmental sustainability/climate change	Equity/health inequalities/social inclusion	No. of PCPs
+Identified as a priority for action	Identified as a principle or determinant	Identified as a priority for action	Identified as a principle or determinant
+2009?12 Plan	48% (14)	27% (8)	96% (28)	3% (1)	29
+2013?17 Plan	11% (3)	21% (6)	89% (25)	8% (2)	28
+1 Numbers in brackets are numbers of PCPs. Two metropolitan PCPs amalgamated during this period.
+
+The first column for each priority includes PCP plans that identified the issue as a priority for action, either as a top?level strategic priority, or as a priority in one of the lower level plans (usually the Health Promotion Plan). The second column for each priority includes PCP plans that identified the issue as a determinant of health or relevant issue, but did not propose action to address it. This could mean, for example, that they identified possible impacts of climate change in their local area, but did not specify actions to address these, or at a minimal level could mean they referred to a general principle such as "address the social and environmental determinants of health". Categories are exclusive so plans are included only once for each issue.
+
+Of particular significance is the marked decline in PCPs identifying environmental sustainability/ climate change as a priority for action, from 48% in 2009?2012 to 11% in 2013?2017. The proportions identifying equity/health inequalities/social inclusion as a priority for action declined only slightly over the same period, from 96% to 89%. One of the PCPs in the action research was amongst those who ceased to have environmental sustainability as a priority during this period. Some PCPs in the state?wide consultation advised that they had continued working on environmental/climate issues, but "labelled" them differently. This almost certainly reflects a less supportive political environment.
+
+When the 2009?2012 plans were developed, there was political support for PCPs to address environmental sustainability, some funding available, and a discursive context suggesting this legitimately fell within the scope of health promotion. By 2013, that situation was changing. The political situation was such that health promotion funding in general was threatened, and health promotion addressing environmental sustainability was particularly vulnerable. The election of a Victorian Labor government in late 2014 probably mediated this situation somewhat, but by that time, PCP plans for 2013?2017 were already in place. This situation is relevant in understanding the reflections of participants on what helped or challenged them in their work.
+
+Participants' comments on what helped or challenged them were analysed using thematic and content analysis. Key themes were identified and grouped in topic areas, as shown in Table below. The topic names are taken from phrases used by participants. Following the table, there is a brief explanatory discussion for each topic area.
+
+Helpful factors and challenges: key themes
+
+WHAT HELPS?	WHAT ARE THE CHALLENGES?
+Topic 1: "what gets to the table" – knowledge, evidence, policy and power
+Knowledge and evidence (particularly local) and expertise
+
+Supportive government policies (at all levels of government)
+
+Being flexible
+
+Understanding how power or influence works in your community
+
+Supportive elected representatives
+
+Local autonomy
+
+Unsupportive management and organisations
+
+Changes of government policy and politicisation
+
+Power, influence and inequality in general
+
+Topic 2: "walk in their shoes" – engaging people and building relationships
+Relevance to participants, partners and community
+
+Contacts, networks, partnerships and collaboration
+
+Leadership, champions
+
+Building relationships and trust
+
+Engagement, particularly of "hard?to?reach" participants
+
+Topic 3: "that's a point of view" – ideas, values and communication
+Communication, language and underlying values
+
+Different ideas and understandings, "silos", narrow definitions of health
+
+Culture and practice, the way things are done
+
+Topic 4: "funding is always an issue [but] money isn't everything" – practical factors
+Funding, time and resources (particularly funding)
+
+Materials and technology
+
+Lack of time, resources or money (particularly time and resources)
+
+Burden of responsibility (volunteers)
+
+Technical challenges
+
+A large proportion of comments related to the first two topic areas: "what gets to the table" and "walk in their shoes". Consultation later in the project suggested that the second topic, around engaging people and building relationships, may normally be the most significant to health promoters. However, at the time of this research, the political situation was such that "what gets to the table" (Andrew, community member) was particularly relevant.
+
+Ideally, evidence, particularly about health issues and local needs, is key to determining health promotion priorities. The importance of local knowledge was stressed by participants. For example, Shelley (staff member), talking about a local food growing project, said it involved:
+
+... people sharing their skills and knowledge ... in this environment where there are ... extremes of temperature and rainfalls.
+
+However, in practice, priority setting is also affected by politics and power, including what is or is not supported by government or senior management. Thus Luke, a community member who had worked with a local council on several projects, said workers were usually "straight?up", but behind the scenes "there's all that political power control game". He suggested that if a manager "wants to benefit their career and can save x amount of money" (for example by not funding a particular project), then that project is unlikely to become or remain a priority.
+
+In relation to climate change, government policy was helpful in determining priorities for 2009?2012 plans. Angela (staff member) commented that because the Victorian government had made it mandatory for local councils to consider climate change, "then obviously people turn their head and say ooh what's that?". On the other hand, the importance of "flexibility" and keeping things "open" in plans (Erin, staff member) and being sensitive to "what's happening" (Allie, staff member) were also mentioned, and are particularly relevant where the political situation is contested. Moreover, perceptions of local needs reflect patterns of power and inequality:
+
+Andrew (community member): ... most people [in a council consultation] ... seemed to think climate change wasn't actually relevant ... we've got too much money, we can look after ourselves.
+
+The second topic, "walk in their shoes", or engaging people and building relationships, was very important, particularly in implementation. Shelley (staff member), talking about the Bicycle Recycle project (number 27 in Table) said:
+
+... we had some seed funding, and we had some contributions made by some of our other partners ... [such programs] wouldn't work without strong community support, and they wouldn't work if we didn't have [a] Men's Shed.
+
+Kate (staff member) commenting about participants in a gardening project, said they brought "love and passion [to the project] ... so that's been a great success". Celia, an Indigenous Elder, who worked with non?Indigenous health services, illustrated the importance of relationships and trust:
+
+... I sort of think, oh I've found my calling in life, to help the mob ... these fellas [Indigenous community members] know me long enough now – if they think that I trust [non?Indigenous workers], then they can trust them – and I tell these workers, don't go back on your word with them ... build that relationship up.
+
+The major challenge in this area was engaging "hard?to?reach" groups. Mel (staff member), discussing a community orchard (project 18 in Table) said there had "been a few" challenges, including:
+
+... vandalism, that's probably one of the worst ... and lack of ... interest from people living nearby.
+
+Underlying both these first two topics, although not so often discussed explicitly, is the issue of discourse and meaning, or the third topic area, "that's a point of view" (Sarah, staff member). Galina, a community member talking about a large public housing estate, said fundamentally most people, regardless of background, "like to see good place for their children ... healthy environment, healthy people, smiling faces ...". However, culture and social practice can equally be a challenge. For example, in an active transport project, the challenges were seen as "probably, just the car culture that we've got" (Mel, staff member). Similarly, organisations and managers vary as to how they define health and "core business," for example whether they see a responsibility to make services inclusive of marginalised people, or whether they see climate change as relevant to health.
+
+Finally, there was the last topic area, of funding and resources. Jen, a staff member, commented "certainly it's possible to do a lot frugally, but you have to have basic [funding]". This topic received rather less comments, but is partially subsumed under the first topic, because the availability of funding, particularly from state government, is closely related to policy and politics.
+
+Time commitment is a related issue:
+
+SGGP discussion group notes, anonymous ... time commitment required for implementation [is a challenge] – [there is] often a lot of community development work required before a project even begins.
+
+Time commitment can be a particular burden for volunteers:
+
+Elena (community member): ... no one wanted to [serve as Chair of community group] ... so I don't know what's going to happen this year, because it's too much work.
+
+Technology can be seen as both helpful and challenging, as illustrated by the "i?button", the temperature logger used in the "Pass the Parcel" housing sustainability project (project 15 in Table). Passing the i?button between households was helpful in building community interest, but could also be challenging:
+
+Louise (staff member): we put approximately six groups of our aged members through [the project] – our biggest challenge was not fully understanding where we were coming from with these little discs [the i?buttons].
+
+While there are diverse themes, it is evident that politics can have an interactive relationship with most. The political situation in 2013 apparently made some managers and organisations wary of engaging with climate change, as illustrated by Mel's comment that people were "too scared to talk about [it]", and may have encouraged them to define their "core business" more narrowly, thus creating a discursive context in which environmental sustainability was not seen as a key concern of health promotion. At the same time, funding for environmental sustainability/ climate change projects was being reduced. Supportive government policies in 2009 were helpful, particularly for work on environmental sustainability. However, an adversarial political system, characterised by policy and funding arrangements that can be changed at very short notice, and "politicisation", created significant challenges for health promotion by 2013.
+
+DISCUSSION
+Potentially the projects identified in this study could contribute to environmental sustainability through caring for the local environment and increasing the sustainability of the food system. They could also reduce energy use in homes and other buildings, reduce the use of private cars, and raise people's awareness of climate change and their capacity to mitigate climate change. The key environmental issues addressed are thus protection of biodiversity and reduction of greenhouse gas emissions. Whether and how far such projects can make an appreciable difference to emission levels and biodiversity protection is a much larger question, which requires development though practice and research, but there is clearly capacity to do so. As noted, this study was not an evaluation.
+
+In terms of equity and health goals, the projects had multiple potential benefits. Potentially they could improve food security, increase healthy eating and physical activity, and improve access to nature, particularly for low income and disadvantaged groups. They could improve housing thermal comfort and reduce the costs of energy for daily living. They had potential benefits through building more inclusive and socially connected communities, through increased cultural safety for Indigenous people and through increased awareness and respect for Indigenous culture and knowledge. Again, whether and how far they achieved these goals is a matter for further evaluation and research. Overall, while it seems that there is room for more integration, especially of active transport and physical activity with other issues, the work discussed here provides a strong basis for an integrated approach to promoting environmental sustainability, equity and health, at local level.
+
+There also appear to be some potential limitations. Practically, low income groups tend to have relatively low energy usage and are likely to have relatively low emission rates.[50] This work can provide direct benefits to project participants, and certainly provides a model of how communities can work together to promote environmental sustainability. However, the impact on biodiversity protection or greenhouse gas emissions may be relatively limited, if the people who are using larger amounts of resources and emitting higher rates of greenhouse gases are not being reached. In terms of the recommendations on promoting equity from the CSDH,[ 2] the work appears more relevant to improving daily living conditions for disadvantaged groups than to tackling the inequitable distribution of power, money, and resources.
+
+It appears that the work illustrated in this study can make a significant contribution to more sustainable, fairer and more inclusive local communities, but how far it can address the broader social factors leading to environmental degradation and inequity is a different question. In particular, the analysis of helpful and challenging factors makes it clear that there are organisational, political and discursive factors which have a strong impact on this work, but are not within the direct control of local health promoters.
+
+A limitation of the research at this stage of the study may arise because participants were asked about what they had done first, and then asked about helpful factors and challenges. It seems likely that this made it easier for participants to identify what had helped them in their work than what had challenged them, as there were more detailed comments on a wider range of themes for helpful factors than for challenges. However, a strength of the research is that qualitative evidence about challenges from participants' comments is supported by evidence from the analysis of PCP plans.
+
+Observation also showed that gender and hierarchy were significant factors affecting health promotion work, even though rarely mentioned by participants. Gender and hierarchy interacted with the helpful and challenging factors discussed here in complex ways, particularly at the organisational and discursive level. The significance of these patterns is not explored further in this report, but was analysed, using ecofeminist historical analysis, in the third stage of the research, and will be discussed in detail in further reports. The full study also included a literature review of peer?reviewed articles on health promotion addressing equity and environmental sustainability. The findings of this review are not included here, but again will be discussed in future publications.
+
+CONCLUSIONS
+This study indicates empirically that environmental sustainability, equity and health can be promoted together at local level. There is potential for local initiatives to do a great deal to address both environmental and socio?economic equity and the related health impacts. However, as this study shows, politics can either get in the way or support this. Given the low costs and potential benefits, political support could stimulate novel and locally effective solutions and ideas. The Lancet Commission on Health and Climate Change calls for "bottom?up" action from municipal level,[51](pp 39?41) as well as state and international action. Primary Care Partnerships, and similar organisations, are well?placed to make a contribution. A major implication of this study, however, is that local work requires support at state, national and global levels, because there are significant political and discursive challenges, which appear to have limited its scope in Victoria at this time. The Labor government elected in Victoria in 2014, and re?elected in 2018, has renewed the focus on environmental sustainability (particularly climate change),[[52]] including identifying it as relevant in the State Public Health and Wellbeing Plan.[54] Further research to investigate the impact of this, and of the re?election of federal LNC governments in 2016 and 2019, is merited. As mentioned above, this study also found deeper organisational and discursive challenges, particularly around gender and hierarchy. The nature of these challenges, and the implications of this research for health promotion theory and frameworks, will be explored in further reports.
+
+CONFLICT OF INTEREST
+The first author was employed by the City of Port Phillip as ISEPICH Health Promotion Coordinator during the first stage of this research project (2009?12). The authors declare no other conflict of interest.
+
+Footnotes
+1 While this research project was primarily in the field of health promotion, community members participating in the action research, who were members of local community groups, may not self?describe their normal practice as health promotion. The term "community development" is therefore included as a broader description of the practice of voluntary community groups.
+
+2 All names used for research participants are pseudonyms.
