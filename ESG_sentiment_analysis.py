@@ -1,4 +1,5 @@
-# Python 3.8.6
+# Created by William Gemba
+# Python version 3.8.6
 
 #prep: import the following packages, and define a few functions 
 from collections import Counter   #this package helps us get the most frequent words out of a list
@@ -43,7 +44,7 @@ def clean_tokenize (text):
 
 # Set current working directory
 
-wrkDir = 'C:/Users/willi/Documents/Data Science Practice Projects/Fordham Projects/Computational_Finance_Final_Project_NLP/'
+#wrkDir = '<insert path here>'
 
 #step 1: read-in the positive words list, and negative words list
 curDir = os.getcwd()  
