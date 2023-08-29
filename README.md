@@ -1,4 +1,4 @@
-# ESG Sentiment Analysis of the Annual Reports of Publicly-traded Automotive Manufacturers 
+# ESG Sentiment Analysis of the Annual Reports of publicly traded Automotive Manufacturers 
 ## Abstract
 This project demonstrates the use of natural language processing methods in Python to perform a sentiment analysis on annual report (10-K) SEC filings of three automotive manufacturers, specifically focusing on the sentiment around the corporate ESG policies.
 
